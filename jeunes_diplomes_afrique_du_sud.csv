@@ -1,0 +1,1001 @@
+﻿ID,Âge,Sexe,Diplôme,Q1_Domaine,Q2_Stage,Q3_Difficulté,Q4_Informatique,Q5_Langues,Q6_Salaire_ZAR,Q7_Mobilité,Q8_Formation,Q9_Entreprenariat,Q10_LinkedIn,Q11_Candidatures,Q12_Mentorat
+1,22,F,Diplôme technique,Droit,Non,Surqualification,Avancé,Anglais+Zulu,21770,Non,5,Non,Non,13,Oui
+2,21,F,Diplôme technique,Finance,Non,Pas de réseau,Moyen,Anglais,12102,Non,2,Oui,Oui,1,Non
+3,25,F,Diplôme technique,Ingénierie,Non,Surqualification,Faible,Anglais+Zulu,12049,Oui,1,Non,Oui,15,Non
+4,24,M,Master,Ingénierie,Oui,Surqualification,Faible,Anglais+Xhosa,9766,Non,2,Non,Non,7,Oui
+5,24,F,Doctorat,Éducation,Non,Manque d’expérience,Avancé,Anglais+Zulu,15759,Oui,3,Non,Oui,13,Non
+6,23,F,Doctorat,Finance,Non,Pas de financement,Faible,Anglais+Xhosa,11905,Oui,2,Oui,Non,2,Oui
+7,22,F,Doctorat,Droit,Non,Surqualification,Avancé,Anglais+Afrikaans,13583,Non,1,Non,Oui,15,Non
+8,29,F,Licence,Communication,Non,Manque d’offres,Faible,Anglais+Xhosa,21639,Non,2,Oui,Oui,15,Oui
+9,22,F,Licence,Santé,Non,Surqualification,Faible,Anglais,8891,Non,1,Non,Non,13,Non
+10,30,F,Master,Informatique,Non,Pas de financement,Faible,Anglais+Zulu,21461,Non,1,Oui,Non,7,Non
+11,27,F,Licence,Communication,Non,Pas de financement,Moyen,Anglais+Afrikaans,13465,Non,5,Oui,Non,7,Non
+12,21,M,Master,Informatique,Oui,Pas de financement,Avancé,Anglais+Xhosa,16514,Non,4,Non,Non,13,Non
+13,21,M,Diplôme technique,Éducation,Oui,Pas de financement,Faible,Anglais+Zulu,21010,Non,2,Oui,Non,19,Non
+14,22,F,Master,Informatique,Oui,Pas de financement,Faible,Anglais+Zulu,11878,Non,2,Oui,Non,4,Non
+15,24,M,Licence,Finance,Non,Manque d’expérience,Faible,Anglais+Zulu,9194,Oui,4,Non,Non,3,Non
+16,24,F,Diplôme technique,Finance,Oui,Pas de financement,Avancé,Anglais+Afrikaans,20709,Non,2,Non,Oui,6,Non
+17,29,M,Diplôme technique,Santé,Oui,Manque d’expérience,Moyen,Anglais+Xhosa,17829,Oui,5,Oui,Oui,17,Non
+18,30,F,Master,Éducation,Non,Surqualification,Avancé,Anglais+Xhosa,18150,Non,3,Non,Oui,19,Non
+19,21,F,Doctorat,Santé,Oui,Surqualification,Avancé,Anglais+Afrikaans,15184,Oui,4,Non,Oui,17,Non
+20,29,F,Licence,Droit,Oui,Manque d’expérience,Moyen,Anglais,20518,Oui,4,Oui,Oui,4,Non
+21,24,F,Licence,Marketing,Oui,Pas de réseau,Moyen,Anglais+Zulu,9567,Oui,3,Oui,Non,6,Oui
+22,29,M,Doctorat,Informatique,Oui,Pas de financement,Faible,Anglais+Xhosa,18245,Oui,4,Non,Oui,7,Oui
+23,27,F,Licence,Ingénierie,Non,Pas de financement,Avancé,Anglais+Afrikaans,15314,Oui,1,Oui,Non,4,Oui
+24,24,M,Doctorat,Informatique,Oui,Surqualification,Avancé,Anglais+Afrikaans,17485,Non,3,Non,Oui,16,Oui
+25,28,M,Doctorat,Finance,Oui,Manque d’expérience,Moyen,Anglais+Zulu,10045,Non,1,Non,Oui,20,Oui
+26,30,F,Diplôme technique,Informatique,Non,Pas de financement,Faible,Anglais+Afrikaans,9401,Non,2,Oui,Non,12,Oui
+27,25,M,Diplôme technique,Santé,Non,Surqualification,Faible,Anglais+Zulu,8994,Non,1,Oui,Non,11,Non
+28,21,F,Master,Communication,Oui,Pas de financement,Moyen,Anglais+Xhosa,8546,Non,1,Non,Non,14,Non
+29,23,M,Diplôme technique,Éducation,Non,Manque d’expérience,Faible,Anglais+Zulu,14183,Non,5,Oui,Non,7,Non
+30,27,F,Doctorat,Informatique,Non,Pas de réseau,Faible,Anglais,13132,Non,2,Oui,Oui,7,Non
+31,26,M,Master,Marketing,Oui,Manque d’offres,Faible,Anglais+Zulu,21888,Non,5,Non,Oui,3,Non
+32,25,M,Licence,Informatique,Non,Surqualification,Avancé,Anglais+Zulu,19360,Non,2,Oui,Oui,17,Oui
+33,23,F,Doctorat,Finance,Oui,Surqualification,Moyen,Anglais,9065,Oui,1,Non,Oui,12,Non
+34,24,M,Master,Communication,Non,Manque d’offres,Faible,Anglais+Zulu,20822,Non,4,Oui,Oui,16,Oui
+35,26,M,Diplôme technique,Finance,Oui,Manque d’offres,Moyen,Anglais+Afrikaans,10089,Oui,4,Oui,Oui,9,Non
+36,22,F,Doctorat,Éducation,Non,Surqualification,Faible,Anglais+Xhosa,9015,Oui,4,Non,Oui,17,Oui
+37,22,F,Master,Droit,Non,Pas de réseau,Faible,Anglais+Xhosa,21146,Non,5,Non,Oui,4,Non
+38,27,F,Licence,Droit,Oui,Surqualification,Moyen,Anglais+Xhosa,15240,Oui,3,Oui,Oui,15,Non
+39,22,F,Doctorat,Communication,Oui,Manque d’offres,Avancé,Anglais+Xhosa,8897,Oui,5,Non,Non,1,Non
+40,26,M,Doctorat,Finance,Oui,Pas de financement,Moyen,Anglais,12939,Non,5,Non,Oui,1,Oui
+41,26,F,Master,Droit,Oui,Manque d’expérience,Faible,Anglais+Zulu,18006,Non,3,Non,Non,13,Oui
+42,30,F,Master,Droit,Non,Pas de financement,Moyen,Anglais+Zulu,18259,Non,2,Oui,Oui,14,Oui
+43,25,F,Diplôme technique,Éducation,Oui,Pas de réseau,Faible,Anglais+Afrikaans,15075,Non,4,Non,Oui,13,Non
+44,21,F,Diplôme technique,Marketing,Oui,Surqualification,Faible,Anglais+Zulu,9077,Non,2,Non,Oui,4,Oui
+45,28,M,Doctorat,Santé,Oui,Surqualification,Avancé,Anglais,9668,Oui,3,Non,Non,12,Non
+46,29,M,Licence,Éducation,Non,Manque d’expérience,Moyen,Anglais+Afrikaans,19101,Non,1,Oui,Non,12,Non
+47,22,M,Diplôme technique,Ingénierie,Non,Pas de financement,Faible,Anglais+Afrikaans,8914,Non,5,Non,Non,10,Oui
+48,27,F,Licence,Ingénierie,Oui,Manque d’expérience,Moyen,Anglais+Zulu,17162,Oui,4,Non,Non,3,Non
+49,22,M,Master,Communication,Oui,Pas de réseau,Moyen,Anglais,8855,Oui,2,Oui,Non,14,Oui
+50,29,M,Master,Éducation,Non,Pas de financement,Faible,Anglais+Xhosa,12831,Non,2,Oui,Oui,10,Oui
+51,25,F,Diplôme technique,Finance,Oui,Pas de financement,Moyen,Anglais,21925,Oui,4,Non,Oui,8,Non
+52,30,M,Doctorat,Santé,Oui,Pas de réseau,Avancé,Anglais,14249,Non,5,Oui,Non,3,Oui
+53,26,M,Master,Ingénierie,Non,Surqualification,Faible,Anglais,14581,Oui,1,Non,Non,13,Non
+54,30,F,Licence,Communication,Non,Surqualification,Avancé,Anglais+Afrikaans,9570,Oui,2,Oui,Non,16,Oui
+55,24,M,Doctorat,Droit,Oui,Manque d’offres,Moyen,Anglais+Afrikaans,18113,Non,4,Non,Non,1,Non
+56,22,F,Diplôme technique,Communication,Oui,Surqualification,Moyen,Anglais,20320,Non,2,Non,Non,9,Oui
+57,21,M,Master,Finance,Oui,Manque d’expérience,Faible,Anglais+Xhosa,14735,Oui,5,Oui,Non,11,Oui
+58,24,M,Diplôme technique,Informatique,Non,Pas de réseau,Moyen,Anglais+Afrikaans,11819,Non,5,Non,Non,2,Non
+59,25,F,Doctorat,Ingénierie,Non,Surqualification,Faible,Anglais,17823,Oui,1,Non,Oui,5,Non
+60,22,M,Doctorat,Droit,Non,Pas de financement,Faible,Anglais+Xhosa,20901,Oui,4,Oui,Oui,8,Non
+61,24,F,Doctorat,Éducation,Non,Pas de réseau,Avancé,Anglais+Zulu,18808,Oui,4,Non,Oui,6,Oui
+62,22,F,Licence,Droit,Oui,Surqualification,Avancé,Anglais+Zulu,18223,Oui,3,Non,Non,19,Oui
+63,27,F,Doctorat,Santé,Oui,Manque d’expérience,Faible,Anglais,8173,Oui,4,Oui,Oui,1,Non
+64,25,F,Doctorat,Santé,Non,Manque d’offres,Moyen,Anglais,15428,Non,4,Oui,Non,5,Non
+65,28,M,Master,Finance,Oui,Manque d’offres,Faible,Anglais+Afrikaans,14290,Non,2,Non,Non,17,Oui
+66,26,M,Licence,Droit,Non,Pas de réseau,Faible,Anglais+Xhosa,15605,Oui,1,Non,Non,5,Oui
+67,23,F,Licence,Marketing,Non,Manque d’expérience,Moyen,Anglais,21027,Oui,3,Non,Non,5,Oui
+68,26,M,Diplôme technique,Communication,Oui,Manque d’expérience,Moyen,Anglais+Zulu,15014,Non,4,Non,Oui,16,Oui
+69,26,M,Doctorat,Communication,Non,Manque d’expérience,Moyen,Anglais,18161,Oui,2,Non,Non,2,Oui
+70,24,M,Master,Marketing,Non,Surqualification,Faible,Anglais+Afrikaans,18145,Non,3,Non,Non,2,Oui
+71,25,M,Diplôme technique,Marketing,Non,Manque d’offres,Moyen,Anglais+Afrikaans,9659,Non,1,Non,Oui,20,Oui
+72,22,F,Doctorat,Droit,Oui,Manque d’expérience,Faible,Anglais+Xhosa,13564,Non,1,Non,Oui,7,Non
+73,30,M,Licence,Ingénierie,Non,Pas de financement,Moyen,Anglais+Zulu,18664,Non,1,Non,Non,10,Oui
+74,23,F,Doctorat,Éducation,Non,Surqualification,Avancé,Anglais+Xhosa,19071,Non,3,Non,Non,12,Non
+75,29,M,Doctorat,Finance,Oui,Pas de financement,Faible,Anglais+Zulu,20827,Non,5,Oui,Non,20,Non
+76,24,M,Master,Marketing,Non,Pas de financement,Avancé,Anglais+Zulu,8425,Oui,3,Oui,Non,14,Oui
+77,23,F,Master,Santé,Non,Pas de réseau,Avancé,Anglais,15439,Oui,1,Non,Oui,6,Oui
+78,28,F,Master,Finance,Non,Surqualification,Faible,Anglais+Zulu,16474,Non,2,Oui,Oui,14,Oui
+79,27,F,Diplôme technique,Ingénierie,Non,Pas de financement,Avancé,Anglais+Zulu,13377,Oui,3,Oui,Non,6,Non
+80,25,F,Master,Finance,Non,Surqualification,Avancé,Anglais+Afrikaans,17630,Non,2,Non,Non,6,Oui
+81,29,M,Diplôme technique,Communication,Oui,Manque d’expérience,Faible,Anglais+Xhosa,11153,Oui,5,Oui,Oui,17,Non
+82,24,F,Doctorat,Marketing,Oui,Pas de réseau,Faible,Anglais+Xhosa,9769,Non,1,Non,Oui,5,Non
+83,26,F,Diplôme technique,Santé,Non,Manque d’offres,Moyen,Anglais+Afrikaans,9682,Non,1,Oui,Oui,6,Non
+84,21,M,Diplôme technique,Éducation,Oui,Pas de financement,Avancé,Anglais,8201,Oui,2,Non,Non,12,Non
+85,24,M,Master,Informatique,Oui,Pas de réseau,Moyen,Anglais+Xhosa,17751,Oui,5,Oui,Non,4,Non
+86,21,F,Master,Santé,Oui,Pas de réseau,Faible,Anglais+Afrikaans,19686,Non,1,Non,Oui,6,Oui
+87,26,F,Licence,Santé,Non,Pas de réseau,Avancé,Anglais,9106,Oui,3,Oui,Oui,1,Non
+88,27,F,Diplôme technique,Ingénierie,Oui,Pas de réseau,Moyen,Anglais+Afrikaans,17713,Oui,2,Non,Non,16,Non
+89,25,F,Doctorat,Finance,Oui,Manque d’expérience,Moyen,Anglais+Xhosa,20933,Oui,5,Oui,Non,7,Oui
+90,22,F,Licence,Santé,Oui,Surqualification,Moyen,Anglais+Xhosa,21775,Non,2,Non,Oui,10,Oui
+91,24,F,Licence,Droit,Oui,Manque d’offres,Faible,Anglais+Zulu,11172,Non,1,Non,Non,13,Oui
+92,30,F,Licence,Marketing,Non,Manque d’offres,Avancé,Anglais+Afrikaans,17391,Non,2,Oui,Non,12,Oui
+93,26,M,Master,Éducation,Oui,Surqualification,Moyen,Anglais+Zulu,10064,Non,3,Oui,Oui,9,Non
+94,24,F,Master,Éducation,Oui,Manque d’offres,Avancé,Anglais+Afrikaans,18442,Oui,1,Oui,Non,20,Oui
+95,28,F,Master,Santé,Non,Pas de réseau,Faible,Anglais+Xhosa,16337,Oui,5,Non,Oui,11,Non
+96,27,M,Doctorat,Marketing,Non,Manque d’expérience,Faible,Anglais+Afrikaans,12198,Non,5,Oui,Non,1,Oui
+97,28,M,Diplôme technique,Marketing,Oui,Pas de réseau,Moyen,Anglais+Afrikaans,13822,Oui,1,Non,Non,1,Non
+98,23,F,Licence,Finance,Non,Pas de réseau,Moyen,Anglais,14897,Oui,5,Oui,Non,11,Non
+99,25,F,Master,Marketing,Non,Manque d’expérience,Avancé,Anglais,15887,Oui,4,Non,Oui,1,Oui
+100,23,F,Diplôme technique,Éducation,Non,Pas de financement,Faible,Anglais,19872,Non,1,Non,Non,16,Oui
+101,24,F,Licence,Santé,Oui,Manque d’offres,Avancé,Anglais+Zulu,18172,Oui,1,Non,Non,2,Oui
+102,29,M,Diplôme technique,Communication,Oui,Manque d’expérience,Faible,Anglais+Afrikaans,15284,Oui,3,Oui,Oui,5,Non
+103,29,F,Licence,Ingénierie,Non,Surqualification,Avancé,Anglais+Xhosa,11046,Non,1,Oui,Oui,14,Oui
+104,25,F,Diplôme technique,Éducation,Oui,Surqualification,Faible,Anglais+Afrikaans,11983,Oui,3,Oui,Non,2,Oui
+105,30,M,Master,Communication,Oui,Surqualification,Moyen,Anglais+Afrikaans,10255,Oui,1,Oui,Non,18,Oui
+106,27,M,Diplôme technique,Finance,Oui,Pas de financement,Faible,Anglais,21058,Oui,3,Oui,Non,13,Non
+107,30,F,Diplôme technique,Informatique,Oui,Manque d’expérience,Faible,Anglais+Zulu,8722,Oui,3,Non,Oui,20,Non
+108,27,F,Licence,Finance,Oui,Pas de financement,Moyen,Anglais+Xhosa,8991,Oui,4,Oui,Non,17,Non
+109,26,M,Diplôme technique,Santé,Oui,Surqualification,Avancé,Anglais+Xhosa,10091,Oui,5,Oui,Oui,6,Non
+110,24,F,Doctorat,Santé,Oui,Pas de réseau,Avancé,Anglais,13106,Non,2,Oui,Oui,6,Oui
+111,23,M,Licence,Finance,Oui,Pas de réseau,Faible,Anglais+Xhosa,17576,Non,3,Non,Non,4,Oui
+112,29,M,Diplôme technique,Communication,Oui,Pas de financement,Moyen,Anglais+Afrikaans,15140,Non,4,Non,Oui,1,Non
+113,28,F,Doctorat,Finance,Oui,Surqualification,Avancé,Anglais+Afrikaans,16407,Oui,3,Oui,Oui,12,Non
+114,22,M,Licence,Marketing,Non,Surqualification,Moyen,Anglais,18677,Oui,2,Non,Oui,8,Oui
+115,21,M,Master,Santé,Oui,Surqualification,Moyen,Anglais+Zulu,20359,Oui,1,Oui,Oui,3,Non
+116,22,M,Licence,Éducation,Non,Surqualification,Avancé,Anglais+Afrikaans,13861,Non,3,Oui,Oui,14,Oui
+117,23,F,Licence,Marketing,Oui,Manque d’expérience,Faible,Anglais+Zulu,13098,Oui,4,Oui,Non,3,Non
+118,23,F,Diplôme technique,Éducation,Non,Pas de financement,Moyen,Anglais+Zulu,17562,Non,5,Oui,Oui,4,Non
+119,27,M,Doctorat,Marketing,Oui,Pas de financement,Moyen,Anglais+Xhosa,16866,Oui,1,Oui,Oui,16,Non
+120,30,F,Licence,Finance,Oui,Manque d’expérience,Faible,Anglais+Afrikaans,20705,Non,5,Oui,Non,15,Oui
+121,22,M,Licence,Finance,Non,Pas de réseau,Faible,Anglais+Xhosa,10385,Oui,2,Oui,Oui,14,Non
+122,27,M,Licence,Éducation,Non,Pas de financement,Avancé,Anglais,10415,Non,1,Oui,Non,18,Oui
+123,27,F,Diplôme technique,Éducation,Non,Manque d’offres,Faible,Anglais+Afrikaans,15692,Oui,5,Oui,Oui,15,Oui
+124,30,F,Licence,Informatique,Oui,Pas de financement,Avancé,Anglais,13057,Oui,4,Oui,Non,5,Oui
+125,28,F,Doctorat,Marketing,Oui,Pas de financement,Avancé,Anglais+Xhosa,17884,Non,4,Non,Oui,20,Non
+126,29,M,Diplôme technique,Informatique,Non,Pas de réseau,Moyen,Anglais+Xhosa,13618,Non,5,Oui,Oui,1,Non
+127,25,M,Master,Marketing,Oui,Manque d’expérience,Faible,Anglais+Xhosa,12768,Oui,1,Non,Non,10,Oui
+128,29,M,Master,Droit,Oui,Pas de réseau,Faible,Anglais+Afrikaans,14042,Oui,3,Non,Non,16,Oui
+129,21,F,Diplôme technique,Informatique,Non,Pas de réseau,Moyen,Anglais+Xhosa,8132,Oui,2,Oui,Oui,16,Oui
+130,22,F,Doctorat,Marketing,Oui,Manque d’expérience,Moyen,Anglais,16481,Non,2,Oui,Non,9,Non
+131,29,M,Diplôme technique,Ingénierie,Non,Manque d’offres,Faible,Anglais+Zulu,17608,Oui,4,Non,Oui,5,Non
+132,25,F,Diplôme technique,Marketing,Non,Manque d’expérience,Avancé,Anglais+Afrikaans,18775,Oui,1,Non,Non,11,Oui
+133,26,F,Diplôme technique,Éducation,Oui,Pas de réseau,Faible,Anglais,19113,Oui,1,Non,Non,18,Non
+134,22,F,Diplôme technique,Éducation,Oui,Manque d’expérience,Faible,Anglais+Afrikaans,10369,Oui,2,Oui,Oui,12,Non
+135,25,F,Licence,Droit,Non,Pas de financement,Moyen,Anglais+Xhosa,8939,Oui,2,Oui,Oui,20,Oui
+136,27,M,Master,Communication,Non,Pas de financement,Avancé,Anglais+Afrikaans,11889,Non,2,Non,Oui,4,Non
+137,23,F,Doctorat,Marketing,Oui,Manque d’offres,Moyen,Anglais+Xhosa,16308,Non,2,Non,Oui,16,Oui
+138,28,M,Licence,Éducation,Oui,Manque d’offres,Faible,Anglais,21421,Non,5,Oui,Non,16,Non
+139,21,M,Master,Marketing,Oui,Manque d’expérience,Avancé,Anglais,21683,Non,5,Non,Oui,19,Non
+140,25,M,Diplôme technique,Santé,Oui,Manque d’expérience,Moyen,Anglais+Zulu,17166,Non,5,Oui,Oui,7,Oui
+141,29,F,Master,Éducation,Non,Manque d’expérience,Avancé,Anglais+Xhosa,8894,Non,5,Oui,Non,5,Non
+142,23,F,Master,Droit,Oui,Surqualification,Avancé,Anglais+Zulu,14915,Non,3,Oui,Oui,8,Oui
+143,29,M,Licence,Ingénierie,Oui,Pas de réseau,Avancé,Anglais,13633,Non,4,Oui,Non,17,Non
+144,22,F,Licence,Ingénierie,Oui,Pas de réseau,Faible,Anglais+Xhosa,11201,Non,2,Oui,Oui,5,Non
+145,25,M,Doctorat,Éducation,Non,Manque d’offres,Moyen,Anglais+Zulu,11282,Non,3,Oui,Non,5,Oui
+146,29,F,Diplôme technique,Éducation,Oui,Pas de financement,Moyen,Anglais+Afrikaans,18494,Oui,3,Oui,Oui,8,Oui
+147,30,M,Diplôme technique,Finance,Oui,Pas de financement,Faible,Anglais+Afrikaans,11297,Non,3,Non,Oui,3,Oui
+148,24,F,Diplôme technique,Droit,Oui,Pas de financement,Avancé,Anglais,20865,Non,5,Non,Non,4,Non
+149,23,F,Master,Finance,Non,Pas de financement,Moyen,Anglais,9120,Non,4,Non,Non,13,Non
+150,26,F,Master,Éducation,Oui,Pas de réseau,Faible,Anglais+Zulu,13595,Oui,1,Non,Non,10,Non
+151,23,F,Diplôme technique,Marketing,Oui,Surqualification,Moyen,Anglais+Zulu,11102,Non,4,Oui,Oui,20,Non
+152,29,F,Doctorat,Santé,Non,Pas de financement,Avancé,Anglais+Zulu,18942,Non,2,Non,Non,4,Non
+153,29,M,Master,Informatique,Non,Manque d’offres,Moyen,Anglais+Xhosa,15794,Oui,2,Non,Non,8,Oui
+154,21,M,Doctorat,Communication,Non,Manque d’expérience,Avancé,Anglais+Afrikaans,19383,Oui,5,Non,Oui,8,Non
+155,30,F,Master,Éducation,Oui,Manque d’expérience,Avancé,Anglais+Xhosa,19335,Non,5,Non,Non,9,Non
+156,26,M,Licence,Marketing,Non,Manque d’offres,Faible,Anglais+Xhosa,15657,Non,1,Non,Oui,6,Oui
+157,28,F,Licence,Informatique,Oui,Manque d’offres,Avancé,Anglais+Zulu,17826,Oui,2,Oui,Oui,10,Non
+158,21,M,Diplôme technique,Santé,Non,Manque d’offres,Faible,Anglais+Afrikaans,19344,Oui,5,Non,Oui,11,Oui
+159,22,M,Licence,Marketing,Non,Surqualification,Moyen,Anglais+Zulu,13425,Oui,4,Non,Oui,15,Oui
+160,26,F,Master,Marketing,Non,Manque d’expérience,Avancé,Anglais+Afrikaans,21959,Non,1,Non,Oui,19,Oui
+161,25,F,Master,Éducation,Oui,Surqualification,Moyen,Anglais+Afrikaans,17476,Oui,1,Oui,Oui,17,Oui
+162,24,F,Licence,Informatique,Non,Pas de financement,Avancé,Anglais+Zulu,17274,Non,2,Oui,Non,17,Non
+163,21,M,Licence,Marketing,Oui,Manque d’expérience,Faible,Anglais,13499,Non,3,Non,Oui,19,Non
+164,24,M,Licence,Communication,Non,Manque d’offres,Moyen,Anglais+Xhosa,18094,Non,5,Non,Oui,9,Oui
+165,30,M,Diplôme technique,Finance,Non,Surqualification,Moyen,Anglais+Afrikaans,12909,Non,1,Oui,Oui,5,Non
+166,22,M,Licence,Ingénierie,Oui,Pas de réseau,Moyen,Anglais+Zulu,14859,Oui,4,Non,Oui,11,Non
+167,22,F,Master,Santé,Oui,Manque d’expérience,Avancé,Anglais+Xhosa,13384,Oui,1,Oui,Non,14,Non
+168,28,F,Licence,Santé,Non,Manque d’offres,Avancé,Anglais+Xhosa,10658,Non,4,Non,Non,12,Oui
+169,22,M,Diplôme technique,Informatique,Non,Manque d’offres,Avancé,Anglais+Zulu,9717,Oui,3,Oui,Oui,5,Non
+170,29,M,Diplôme technique,Marketing,Non,Pas de financement,Avancé,Anglais,15443,Non,2,Non,Oui,19,Non
+171,23,M,Master,Ingénierie,Oui,Surqualification,Faible,Anglais,20930,Oui,3,Oui,Non,2,Non
+172,23,M,Master,Informatique,Oui,Pas de financement,Avancé,Anglais+Zulu,8691,Non,2,Non,Oui,13,Non
+173,28,F,Licence,Finance,Oui,Pas de réseau,Faible,Anglais,16125,Non,1,Oui,Oui,2,Non
+174,29,F,Master,Finance,Oui,Pas de réseau,Avancé,Anglais+Xhosa,11594,Oui,3,Non,Non,7,Non
+175,23,F,Doctorat,Droit,Oui,Pas de financement,Moyen,Anglais+Zulu,8060,Non,5,Non,Oui,6,Non
+176,25,F,Master,Communication,Non,Manque d’expérience,Avancé,Anglais+Afrikaans,18465,Non,3,Non,Non,1,Oui
+177,29,M,Doctorat,Droit,Oui,Manque d’expérience,Faible,Anglais+Zulu,11654,Oui,3,Oui,Non,5,Non
+178,30,F,Doctorat,Éducation,Non,Pas de financement,Avancé,Anglais,19357,Non,1,Oui,Oui,2,Non
+179,27,M,Master,Droit,Non,Pas de financement,Avancé,Anglais+Xhosa,11772,Non,1,Non,Non,8,Oui
+180,24,F,Doctorat,Communication,Non,Manque d’expérience,Moyen,Anglais+Xhosa,15643,Non,2,Oui,Oui,6,Non
+181,29,F,Master,Droit,Oui,Surqualification,Faible,Anglais+Afrikaans,18222,Oui,4,Non,Non,13,Non
+182,24,F,Master,Marketing,Oui,Pas de financement,Faible,Anglais+Zulu,11492,Non,3,Non,Non,11,Non
+183,25,M,Diplôme technique,Droit,Non,Manque d’offres,Moyen,Anglais,11916,Non,4,Oui,Oui,1,Oui
+184,27,F,Doctorat,Informatique,Non,Surqualification,Moyen,Anglais+Afrikaans,15876,Oui,3,Oui,Oui,19,Non
+185,26,M,Doctorat,Communication,Non,Pas de financement,Moyen,Anglais+Zulu,20035,Oui,4,Oui,Non,16,Oui
+186,28,F,Licence,Santé,Non,Manque d’offres,Avancé,Anglais,20588,Oui,2,Non,Oui,16,Non
+187,29,F,Master,Éducation,Non,Manque d’offres,Faible,Anglais,21347,Oui,1,Non,Oui,12,Oui
+188,28,M,Diplôme technique,Communication,Non,Pas de financement,Moyen,Anglais+Xhosa,13431,Non,5,Non,Non,7,Oui
+189,22,F,Diplôme technique,Informatique,Non,Pas de financement,Moyen,Anglais+Xhosa,21226,Oui,4,Oui,Non,19,Oui
+190,24,M,Licence,Finance,Oui,Pas de financement,Faible,Anglais+Xhosa,20125,Non,1,Non,Non,13,Oui
+191,24,F,Doctorat,Ingénierie,Non,Manque d’offres,Avancé,Anglais,14158,Non,3,Non,Non,15,Oui
+192,22,F,Diplôme technique,Finance,Non,Pas de réseau,Avancé,Anglais+Zulu,11363,Oui,3,Non,Oui,7,Oui
+193,26,M,Doctorat,Marketing,Oui,Pas de financement,Avancé,Anglais+Zulu,14558,Non,4,Oui,Non,15,Oui
+194,21,F,Diplôme technique,Ingénierie,Non,Pas de financement,Faible,Anglais+Zulu,11018,Oui,4,Non,Non,20,Non
+195,30,F,Diplôme technique,Informatique,Non,Surqualification,Avancé,Anglais+Afrikaans,21534,Non,5,Non,Non,9,Oui
+196,29,M,Master,Informatique,Non,Pas de financement,Avancé,Anglais+Afrikaans,8110,Oui,2,Non,Non,18,Oui
+197,24,M,Doctorat,Marketing,Non,Surqualification,Faible,Anglais+Xhosa,13944,Oui,4,Oui,Non,15,Oui
+198,30,F,Diplôme technique,Éducation,Non,Surqualification,Faible,Anglais+Xhosa,8162,Oui,3,Non,Oui,4,Oui
+199,24,M,Master,Droit,Non,Pas de réseau,Moyen,Anglais+Zulu,9208,Oui,5,Oui,Oui,9,Oui
+200,21,M,Diplôme technique,Éducation,Oui,Pas de financement,Faible,Anglais+Xhosa,13863,Oui,5,Non,Non,17,Oui
+201,22,M,Master,Informatique,Oui,Pas de réseau,Avancé,Anglais+Zulu,8491,Oui,3,Non,Oui,11,Oui
+202,21,M,Master,Informatique,Oui,Manque d’offres,Faible,Anglais+Zulu,17088,Non,3,Non,Oui,11,Non
+203,24,F,Doctorat,Marketing,Non,Pas de réseau,Avancé,Anglais+Afrikaans,9887,Oui,1,Oui,Non,6,Oui
+204,22,M,Master,Communication,Oui,Manque d’expérience,Moyen,Anglais+Zulu,10333,Oui,4,Oui,Non,9,Oui
+205,21,M,Diplôme technique,Finance,Oui,Manque d’expérience,Avancé,Anglais+Xhosa,12760,Non,5,Oui,Non,11,Non
+206,26,M,Licence,Droit,Oui,Manque d’expérience,Avancé,Anglais+Zulu,15215,Non,4,Oui,Oui,16,Non
+207,22,M,Diplôme technique,Éducation,Non,Surqualification,Avancé,Anglais+Xhosa,11185,Non,3,Oui,Non,18,Oui
+208,29,M,Diplôme technique,Droit,Non,Manque d’expérience,Faible,Anglais+Zulu,18343,Oui,1,Oui,Non,15,Oui
+209,24,M,Master,Éducation,Oui,Pas de réseau,Avancé,Anglais,17595,Non,5,Oui,Oui,4,Oui
+210,25,M,Diplôme technique,Finance,Oui,Pas de financement,Faible,Anglais+Afrikaans,20542,Non,1,Non,Oui,11,Oui
+211,28,F,Master,Informatique,Non,Surqualification,Moyen,Anglais+Afrikaans,13896,Oui,2,Non,Non,17,Oui
+212,24,M,Doctorat,Marketing,Oui,Surqualification,Moyen,Anglais+Zulu,8719,Oui,5,Non,Oui,9,Oui
+213,29,M,Master,Santé,Oui,Manque d’expérience,Moyen,Anglais+Xhosa,8486,Non,1,Oui,Non,3,Oui
+214,23,F,Doctorat,Santé,Oui,Manque d’offres,Avancé,Anglais+Zulu,11262,Oui,2,Oui,Non,12,Oui
+215,30,M,Licence,Droit,Non,Manque d’offres,Avancé,Anglais+Afrikaans,11241,Non,1,Oui,Oui,14,Oui
+216,30,M,Diplôme technique,Ingénierie,Non,Pas de financement,Moyen,Anglais+Xhosa,12654,Oui,3,Oui,Oui,1,Oui
+217,28,F,Doctorat,Ingénierie,Oui,Pas de réseau,Moyen,Anglais,10853,Oui,4,Non,Oui,18,Non
+218,24,M,Licence,Ingénierie,Oui,Manque d’expérience,Faible,Anglais,11587,Non,2,Non,Non,5,Oui
+219,28,M,Master,Santé,Non,Pas de réseau,Faible,Anglais+Xhosa,12292,Non,5,Oui,Oui,4,Oui
+220,27,M,Licence,Informatique,Oui,Manque d’offres,Moyen,Anglais+Zulu,19777,Non,4,Oui,Non,8,Oui
+221,24,M,Doctorat,Finance,Non,Manque d’offres,Moyen,Anglais+Afrikaans,10855,Non,1,Non,Non,15,Oui
+222,22,M,Diplôme technique,Droit,Oui,Manque d’expérience,Moyen,Anglais+Xhosa,13567,Oui,2,Oui,Non,4,Non
+223,22,F,Licence,Communication,Oui,Manque d’offres,Moyen,Anglais+Zulu,21886,Oui,4,Oui,Non,4,Non
+224,27,M,Licence,Éducation,Non,Manque d’offres,Avancé,Anglais+Xhosa,17085,Non,4,Oui,Oui,18,Oui
+225,26,F,Master,Finance,Non,Pas de financement,Avancé,Anglais+Xhosa,12029,Oui,1,Non,Non,10,Non
+226,27,M,Master,Marketing,Non,Pas de financement,Faible,Anglais+Afrikaans,10925,Non,3,Non,Oui,5,Oui
+227,27,M,Diplôme technique,Finance,Oui,Manque d’offres,Moyen,Anglais,11211,Oui,4,Oui,Non,12,Non
+228,28,F,Master,Droit,Oui,Manque d’expérience,Avancé,Anglais,8352,Oui,4,Oui,Oui,10,Oui
+229,21,M,Doctorat,Informatique,Non,Manque d’expérience,Avancé,Anglais,10884,Oui,5,Non,Oui,15,Non
+230,22,M,Doctorat,Ingénierie,Non,Manque d’offres,Avancé,Anglais,21809,Non,4,Oui,Non,14,Non
+231,21,F,Licence,Communication,Oui,Manque d’offres,Avancé,Anglais+Afrikaans,12289,Oui,1,Non,Non,18,Oui
+232,27,M,Master,Santé,Oui,Surqualification,Moyen,Anglais+Zulu,9657,Oui,1,Non,Non,3,Non
+233,26,M,Master,Informatique,Non,Pas de financement,Moyen,Anglais+Xhosa,8343,Non,2,Oui,Non,17,Oui
+234,22,F,Licence,Finance,Oui,Pas de financement,Avancé,Anglais+Afrikaans,21622,Oui,1,Oui,Oui,6,Oui
+235,24,F,Diplôme technique,Santé,Oui,Manque d’expérience,Moyen,Anglais,19099,Non,4,Oui,Oui,13,Oui
+236,24,F,Master,Éducation,Oui,Pas de réseau,Avancé,Anglais,10248,Non,4,Non,Non,17,Oui
+237,24,M,Master,Ingénierie,Oui,Pas de réseau,Avancé,Anglais+Afrikaans,14208,Oui,2,Non,Non,7,Oui
+238,29,F,Diplôme technique,Informatique,Oui,Manque d’offres,Faible,Anglais+Xhosa,18729,Non,4,Non,Oui,5,Non
+239,28,M,Master,Communication,Non,Manque d’offres,Faible,Anglais+Afrikaans,20900,Oui,3,Non,Non,8,Oui
+240,23,M,Doctorat,Informatique,Oui,Surqualification,Moyen,Anglais+Xhosa,9818,Oui,1,Oui,Oui,1,Oui
+241,27,F,Doctorat,Ingénierie,Oui,Surqualification,Faible,Anglais+Afrikaans,13544,Non,3,Oui,Oui,7,Oui
+242,23,F,Diplôme technique,Droit,Oui,Manque d’expérience,Faible,Anglais+Zulu,11444,Non,3,Oui,Non,12,Oui
+243,25,M,Diplôme technique,Communication,Oui,Pas de réseau,Moyen,Anglais,12998,Non,5,Non,Non,17,Oui
+244,28,M,Doctorat,Communication,Non,Surqualification,Faible,Anglais+Zulu,15474,Non,4,Oui,Non,20,Oui
+245,24,F,Doctorat,Ingénierie,Non,Pas de réseau,Moyen,Anglais+Afrikaans,11934,Oui,2,Oui,Non,5,Non
+246,22,F,Doctorat,Informatique,Non,Surqualification,Faible,Anglais+Zulu,14056,Oui,4,Oui,Non,19,Oui
+247,28,F,Doctorat,Droit,Non,Pas de financement,Faible,Anglais+Xhosa,21262,Oui,1,Oui,Oui,17,Oui
+248,29,M,Diplôme technique,Éducation,Non,Manque d’offres,Faible,Anglais+Afrikaans,14100,Non,3,Oui,Non,17,Non
+249,22,F,Diplôme technique,Marketing,Oui,Surqualification,Moyen,Anglais+Xhosa,18828,Oui,4,Oui,Non,2,Non
+250,21,F,Licence,Droit,Oui,Surqualification,Faible,Anglais+Zulu,10807,Non,1,Oui,Non,18,Non
+251,29,M,Diplôme technique,Marketing,Oui,Manque d’expérience,Avancé,Anglais,16633,Non,5,Oui,Non,12,Non
+252,21,M,Doctorat,Éducation,Oui,Pas de financement,Faible,Anglais+Afrikaans,21091,Oui,2,Non,Non,18,Oui
+253,22,F,Master,Communication,Non,Manque d’offres,Moyen,Anglais+Xhosa,18210,Non,4,Non,Non,8,Non
+254,24,M,Doctorat,Finance,Non,Pas de financement,Faible,Anglais+Zulu,15106,Oui,2,Oui,Oui,17,Non
+255,23,M,Doctorat,Ingénierie,Non,Manque d’offres,Faible,Anglais+Afrikaans,19648,Non,2,Non,Oui,6,Non
+256,27,M,Diplôme technique,Communication,Non,Pas de financement,Avancé,Anglais,9071,Non,3,Oui,Oui,12,Oui
+257,28,F,Licence,Communication,Oui,Pas de financement,Avancé,Anglais+Afrikaans,9941,Oui,5,Non,Non,6,Oui
+258,28,F,Master,Ingénierie,Oui,Manque d’expérience,Faible,Anglais,10366,Non,1,Oui,Non,4,Non
+259,24,F,Master,Santé,Non,Pas de réseau,Moyen,Anglais+Zulu,10142,Oui,5,Oui,Non,6,Non
+260,27,F,Licence,Ingénierie,Non,Pas de financement,Moyen,Anglais+Xhosa,21023,Oui,4,Non,Non,20,Oui
+261,21,F,Doctorat,Finance,Oui,Manque d’offres,Avancé,Anglais+Afrikaans,11107,Non,1,Non,Oui,8,Oui
+262,23,F,Diplôme technique,Éducation,Non,Manque d’offres,Avancé,Anglais+Afrikaans,11140,Non,3,Non,Oui,5,Oui
+263,27,M,Doctorat,Informatique,Oui,Manque d’expérience,Faible,Anglais+Xhosa,16725,Oui,4,Oui,Oui,18,Oui
+264,21,M,Master,Informatique,Non,Pas de réseau,Moyen,Anglais+Afrikaans,14196,Non,4,Oui,Non,20,Non
+265,27,M,Master,Marketing,Oui,Manque d’offres,Moyen,Anglais+Afrikaans,19376,Non,2,Non,Oui,14,Non
+266,25,F,Doctorat,Droit,Oui,Manque d’expérience,Moyen,Anglais+Afrikaans,14131,Oui,1,Non,Oui,7,Oui
+267,28,F,Master,Santé,Non,Manque d’offres,Moyen,Anglais+Afrikaans,13209,Non,2,Non,Oui,9,Non
+268,25,M,Diplôme technique,Finance,Non,Surqualification,Avancé,Anglais+Xhosa,17823,Non,1,Oui,Non,2,Oui
+269,27,F,Master,Droit,Oui,Pas de financement,Avancé,Anglais+Zulu,15037,Non,4,Oui,Oui,13,Non
+270,29,F,Diplôme technique,Droit,Non,Pas de réseau,Faible,Anglais+Afrikaans,18422,Oui,3,Oui,Oui,10,Oui
+271,28,F,Doctorat,Communication,Non,Pas de financement,Moyen,Anglais+Xhosa,12006,Non,3,Non,Non,13,Oui
+272,23,F,Doctorat,Santé,Non,Pas de financement,Faible,Anglais+Zulu,8756,Oui,2,Oui,Oui,17,Non
+273,24,F,Diplôme technique,Communication,Non,Surqualification,Faible,Anglais+Xhosa,20502,Oui,1,Oui,Non,14,Non
+274,25,M,Diplôme technique,Ingénierie,Non,Pas de réseau,Faible,Anglais,18093,Oui,2,Non,Non,16,Oui
+275,24,F,Diplôme technique,Informatique,Oui,Pas de financement,Faible,Anglais+Zulu,17622,Oui,1,Oui,Non,15,Non
+276,21,F,Master,Droit,Non,Manque d’expérience,Avancé,Anglais+Zulu,11098,Oui,3,Oui,Oui,11,Non
+277,30,F,Doctorat,Finance,Non,Manque d’offres,Avancé,Anglais,21999,Non,4,Non,Non,5,Non
+278,29,F,Master,Éducation,Non,Manque d’offres,Moyen,Anglais+Zulu,16773,Non,1,Oui,Oui,10,Non
+279,21,F,Master,Informatique,Oui,Manque d’expérience,Moyen,Anglais+Zulu,12819,Non,3,Oui,Oui,1,Non
+280,26,M,Diplôme technique,Communication,Non,Manque d’offres,Avancé,Anglais,20936,Oui,4,Non,Oui,3,Non
+281,21,F,Master,Éducation,Oui,Surqualification,Moyen,Anglais+Xhosa,10434,Oui,4,Non,Oui,9,Non
+282,21,M,Licence,Éducation,Non,Manque d’expérience,Avancé,Anglais+Afrikaans,13368,Non,5,Non,Non,18,Non
+283,30,M,Licence,Santé,Oui,Surqualification,Avancé,Anglais+Zulu,12049,Non,2,Non,Non,10,Non
+284,28,M,Licence,Santé,Non,Pas de réseau,Moyen,Anglais+Xhosa,8872,Non,3,Oui,Oui,7,Non
+285,29,M,Licence,Éducation,Oui,Manque d’offres,Moyen,Anglais+Xhosa,18313,Non,2,Oui,Oui,20,Oui
+286,29,F,Licence,Finance,Oui,Surqualification,Avancé,Anglais,21035,Non,1,Non,Oui,20,Oui
+287,23,M,Diplôme technique,Droit,Non,Manque d’offres,Avancé,Anglais+Xhosa,12588,Non,1,Oui,Oui,3,Oui
+288,21,F,Master,Informatique,Non,Pas de réseau,Avancé,Anglais,10071,Non,4,Oui,Non,2,Oui
+289,29,M,Master,Droit,Non,Pas de financement,Avancé,Anglais+Xhosa,21951,Oui,3,Non,Oui,14,Non
+290,22,M,Licence,Santé,Oui,Manque d’offres,Avancé,Anglais+Afrikaans,16327,Non,3,Non,Oui,5,Non
+291,23,F,Master,Éducation,Non,Pas de réseau,Moyen,Anglais+Xhosa,17569,Non,2,Oui,Oui,5,Non
+292,22,M,Licence,Ingénierie,Oui,Manque d’expérience,Moyen,Anglais+Xhosa,16011,Oui,2,Oui,Non,16,Non
+293,30,F,Master,Marketing,Non,Manque d’offres,Moyen,Anglais+Xhosa,11428,Non,3,Non,Oui,6,Non
+294,22,F,Diplôme technique,Informatique,Oui,Manque d’expérience,Avancé,Anglais,19916,Oui,4,Non,Non,8,Non
+295,24,F,Doctorat,Informatique,Non,Pas de réseau,Faible,Anglais+Zulu,9333,Oui,4,Oui,Oui,13,Non
+296,27,M,Licence,Droit,Non,Manque d’expérience,Moyen,Anglais,20855,Non,4,Oui,Non,6,Non
+297,22,F,Diplôme technique,Droit,Oui,Surqualification,Faible,Anglais+Afrikaans,15711,Oui,5,Non,Oui,14,Non
+298,30,F,Diplôme technique,Marketing,Oui,Pas de financement,Moyen,Anglais,20959,Non,2,Non,Non,13,Oui
+299,24,F,Licence,Ingénierie,Non,Manque d’expérience,Faible,Anglais+Zulu,18870,Non,4,Non,Non,19,Oui
+300,30,M,Licence,Communication,Non,Surqualification,Moyen,Anglais+Afrikaans,18074,Oui,3,Oui,Oui,7,Non
+301,30,M,Diplôme technique,Finance,Non,Pas de financement,Moyen,Anglais+Zulu,9062,Oui,5,Non,Non,8,Non
+302,21,M,Licence,Droit,Oui,Pas de réseau,Moyen,Anglais+Zulu,10743,Non,4,Oui,Non,12,Oui
+303,30,F,Licence,Informatique,Non,Pas de réseau,Faible,Anglais+Afrikaans,16333,Non,1,Oui,Non,3,Oui
+304,22,M,Doctorat,Droit,Oui,Manque d’offres,Faible,Anglais+Zulu,14358,Non,5,Oui,Oui,8,Non
+305,27,M,Doctorat,Éducation,Oui,Surqualification,Moyen,Anglais,20309,Oui,5,Non,Oui,9,Non
+306,30,F,Licence,Éducation,Non,Pas de financement,Moyen,Anglais+Zulu,18568,Oui,2,Oui,Non,5,Oui
+307,30,F,Diplôme technique,Informatique,Oui,Manque d’offres,Moyen,Anglais+Xhosa,20306,Oui,1,Oui,Oui,13,Non
+308,29,M,Master,Informatique,Oui,Manque d’offres,Faible,Anglais,16342,Oui,5,Non,Non,4,Non
+309,26,F,Licence,Informatique,Oui,Pas de réseau,Avancé,Anglais+Zulu,14131,Oui,5,Oui,Oui,19,Oui
+310,25,M,Licence,Ingénierie,Non,Manque d’expérience,Faible,Anglais+Xhosa,16168,Non,2,Oui,Non,5,Non
+311,24,F,Master,Marketing,Oui,Pas de financement,Avancé,Anglais,16501,Oui,3,Non,Non,7,Oui
+312,26,M,Master,Droit,Oui,Pas de réseau,Avancé,Anglais+Afrikaans,15606,Oui,3,Oui,Non,15,Oui
+313,24,F,Master,Ingénierie,Oui,Pas de réseau,Moyen,Anglais,10932,Non,1,Non,Non,5,Oui
+314,25,M,Doctorat,Droit,Oui,Manque d’expérience,Faible,Anglais+Afrikaans,13272,Non,2,Oui,Non,9,Oui
+315,27,M,Doctorat,Communication,Non,Surqualification,Faible,Anglais,19673,Oui,4,Non,Oui,11,Oui
+316,23,F,Doctorat,Communication,Oui,Surqualification,Avancé,Anglais+Xhosa,14125,Oui,2,Oui,Non,1,Oui
+317,25,F,Diplôme technique,Finance,Oui,Pas de financement,Avancé,Anglais+Afrikaans,16609,Oui,4,Non,Non,4,Non
+318,28,F,Licence,Éducation,Oui,Manque d’expérience,Avancé,Anglais,19378,Non,3,Oui,Oui,17,Non
+319,26,F,Doctorat,Ingénierie,Oui,Manque d’expérience,Faible,Anglais+Afrikaans,15918,Non,1,Oui,Oui,10,Oui
+320,22,M,Diplôme technique,Droit,Non,Manque d’offres,Faible,Anglais+Zulu,19725,Oui,4,Oui,Oui,17,Non
+321,21,M,Diplôme technique,Éducation,Oui,Manque d’expérience,Faible,Anglais,16106,Oui,3,Non,Oui,4,Non
+322,28,M,Master,Droit,Oui,Pas de financement,Faible,Anglais,15762,Oui,5,Oui,Non,20,Oui
+323,30,F,Master,Finance,Non,Manque d’expérience,Faible,Anglais+Xhosa,12396,Non,1,Non,Non,16,Oui
+324,30,M,Doctorat,Droit,Non,Manque d’offres,Moyen,Anglais+Xhosa,17522,Non,4,Non,Non,8,Non
+325,22,M,Licence,Marketing,Non,Surqualification,Avancé,Anglais+Xhosa,14569,Oui,2,Non,Oui,15,Non
+326,22,M,Licence,Santé,Non,Manque d’expérience,Faible,Anglais+Afrikaans,18454,Non,4,Non,Non,10,Oui
+327,29,M,Licence,Finance,Non,Manque d’expérience,Moyen,Anglais,20953,Oui,5,Oui,Oui,4,Non
+328,24,M,Diplôme technique,Communication,Non,Pas de financement,Moyen,Anglais+Afrikaans,17567,Oui,1,Oui,Oui,18,Non
+329,29,F,Diplôme technique,Ingénierie,Oui,Manque d’offres,Moyen,Anglais,18645,Oui,1,Oui,Oui,20,Oui
+330,25,F,Diplôme technique,Marketing,Non,Manque d’expérience,Faible,Anglais+Xhosa,8599,Oui,2,Oui,Non,15,Oui
+331,23,F,Diplôme technique,Finance,Non,Pas de financement,Faible,Anglais+Afrikaans,11394,Non,2,Oui,Oui,5,Non
+332,26,F,Licence,Marketing,Oui,Manque d’offres,Avancé,Anglais+Zulu,11596,Non,4,Non,Oui,3,Non
+333,22,M,Licence,Ingénierie,Oui,Pas de réseau,Avancé,Anglais+Zulu,11325,Non,5,Oui,Oui,11,Non
+334,24,F,Master,Ingénierie,Oui,Manque d’offres,Faible,Anglais,15406,Oui,2,Non,Non,9,Non
+335,26,F,Licence,Ingénierie,Non,Pas de réseau,Avancé,Anglais+Afrikaans,11840,Non,5,Oui,Non,2,Oui
+336,25,F,Diplôme technique,Communication,Non,Pas de réseau,Moyen,Anglais+Afrikaans,14486,Oui,4,Non,Oui,13,Non
+337,23,M,Diplôme technique,Informatique,Oui,Manque d’offres,Moyen,Anglais,11581,Non,2,Non,Non,9,Oui
+338,28,M,Doctorat,Santé,Non,Manque d’offres,Faible,Anglais,13013,Non,3,Oui,Non,4,Non
+339,29,M,Licence,Éducation,Non,Pas de financement,Moyen,Anglais+Xhosa,14963,Non,2,Non,Oui,15,Oui
+340,25,M,Licence,Ingénierie,Oui,Manque d’offres,Moyen,Anglais,14178,Non,2,Non,Non,14,Oui
+341,30,M,Master,Communication,Non,Surqualification,Avancé,Anglais+Xhosa,17361,Non,5,Oui,Oui,19,Non
+342,29,M,Master,Marketing,Oui,Manque d’expérience,Faible,Anglais+Afrikaans,10575,Oui,1,Oui,Non,6,Non
+343,21,F,Diplôme technique,Ingénierie,Non,Manque d’offres,Avancé,Anglais+Zulu,21802,Oui,3,Non,Non,16,Non
+344,29,F,Doctorat,Droit,Non,Pas de réseau,Moyen,Anglais+Zulu,14129,Oui,3,Oui,Non,10,Oui
+345,25,F,Licence,Informatique,Oui,Pas de réseau,Faible,Anglais+Xhosa,12170,Oui,1,Non,Non,8,Oui
+346,22,F,Licence,Santé,Oui,Manque d’offres,Faible,Anglais,17020,Oui,3,Non,Oui,17,Non
+347,23,F,Doctorat,Communication,Oui,Manque d’expérience,Moyen,Anglais,9388,Non,3,Oui,Non,4,Oui
+348,25,F,Licence,Santé,Non,Manque d’expérience,Moyen,Anglais+Zulu,10200,Oui,5,Non,Non,3,Non
+349,22,F,Master,Droit,Oui,Pas de financement,Faible,Anglais+Zulu,20314,Oui,1,Non,Oui,20,Non
+350,22,M,Doctorat,Communication,Non,Pas de financement,Moyen,Anglais+Xhosa,9376,Non,4,Oui,Oui,20,Oui
+351,29,M,Licence,Marketing,Non,Pas de financement,Moyen,Anglais+Xhosa,12834,Non,4,Oui,Non,12,Non
+352,23,F,Master,Finance,Non,Manque d’expérience,Faible,Anglais+Afrikaans,15282,Oui,4,Oui,Oui,8,Oui
+353,25,F,Master,Éducation,Oui,Pas de réseau,Faible,Anglais+Zulu,16500,Oui,4,Oui,Non,16,Non
+354,25,M,Diplôme technique,Informatique,Non,Pas de financement,Avancé,Anglais,13760,Non,3,Oui,Oui,14,Non
+355,30,F,Licence,Ingénierie,Oui,Manque d’offres,Avancé,Anglais+Afrikaans,11771,Non,3,Oui,Non,14,Non
+356,24,F,Doctorat,Droit,Non,Pas de financement,Avancé,Anglais+Xhosa,17567,Non,5,Non,Oui,2,Oui
+357,26,F,Master,Éducation,Non,Manque d’offres,Moyen,Anglais+Xhosa,8674,Non,4,Oui,Non,4,Oui
+358,24,M,Master,Finance,Non,Manque d’offres,Avancé,Anglais+Afrikaans,15622,Oui,5,Oui,Oui,9,Non
+359,25,M,Diplôme technique,Éducation,Non,Pas de réseau,Avancé,Anglais+Zulu,16392,Oui,3,Oui,Oui,9,Non
+360,29,F,Doctorat,Santé,Oui,Manque d’offres,Moyen,Anglais+Afrikaans,18176,Non,1,Oui,Non,9,Non
+361,28,M,Diplôme technique,Santé,Non,Pas de financement,Moyen,Anglais,13511,Oui,2,Oui,Oui,17,Oui
+362,25,M,Master,Finance,Non,Pas de réseau,Moyen,Anglais+Afrikaans,14981,Oui,4,Oui,Non,11,Non
+363,21,M,Licence,Santé,Oui,Pas de réseau,Avancé,Anglais+Zulu,15391,Non,4,Oui,Non,14,Non
+364,22,F,Doctorat,Finance,Non,Manque d’expérience,Avancé,Anglais+Xhosa,15660,Oui,3,Non,Oui,9,Oui
+365,27,M,Licence,Communication,Non,Manque d’offres,Faible,Anglais+Xhosa,15086,Non,2,Oui,Non,12,Oui
+366,25,M,Licence,Finance,Non,Pas de financement,Avancé,Anglais+Xhosa,14700,Non,5,Non,Non,3,Non
+367,21,F,Diplôme technique,Marketing,Non,Manque d’offres,Avancé,Anglais+Xhosa,14021,Oui,5,Oui,Non,1,Non
+368,21,F,Master,Santé,Non,Pas de financement,Moyen,Anglais+Afrikaans,21181,Oui,2,Non,Oui,4,Non
+369,26,F,Licence,Ingénierie,Non,Surqualification,Moyen,Anglais+Xhosa,16151,Oui,5,Non,Non,16,Oui
+370,23,M,Doctorat,Marketing,Oui,Manque d’expérience,Avancé,Anglais,13194,Oui,4,Oui,Non,8,Oui
+371,25,M,Diplôme technique,Communication,Oui,Pas de réseau,Faible,Anglais+Xhosa,12473,Oui,4,Non,Non,19,Non
+372,23,F,Doctorat,Droit,Oui,Manque d’expérience,Avancé,Anglais+Afrikaans,14264,Oui,3,Oui,Oui,16,Oui
+373,28,F,Licence,Informatique,Oui,Surqualification,Moyen,Anglais+Zulu,8404,Oui,4,Non,Non,8,Non
+374,29,M,Doctorat,Finance,Non,Manque d’expérience,Faible,Anglais+Xhosa,10942,Non,3,Non,Non,19,Non
+375,27,M,Diplôme technique,Santé,Oui,Manque d’expérience,Faible,Anglais+Xhosa,15236,Non,5,Oui,Non,14,Non
+376,29,F,Diplôme technique,Marketing,Non,Surqualification,Avancé,Anglais,11830,Oui,1,Oui,Non,9,Non
+377,21,M,Master,Communication,Non,Manque d’expérience,Avancé,Anglais,12351,Oui,1,Oui,Non,4,Non
+378,22,F,Doctorat,Communication,Oui,Manque d’expérience,Faible,Anglais+Afrikaans,18573,Oui,1,Non,Oui,16,Oui
+379,22,M,Diplôme technique,Éducation,Oui,Surqualification,Moyen,Anglais+Xhosa,9243,Oui,1,Oui,Oui,18,Oui
+380,23,F,Diplôme technique,Communication,Oui,Surqualification,Faible,Anglais+Zulu,13883,Oui,1,Non,Non,20,Non
+381,29,M,Master,Marketing,Non,Pas de réseau,Moyen,Anglais+Zulu,9350,Oui,5,Non,Non,19,Oui
+382,21,F,Diplôme technique,Marketing,Oui,Pas de financement,Avancé,Anglais+Xhosa,12825,Non,4,Oui,Oui,13,Oui
+383,26,M,Licence,Éducation,Oui,Pas de financement,Faible,Anglais,21805,Oui,1,Non,Oui,20,Oui
+384,30,F,Doctorat,Ingénierie,Non,Surqualification,Moyen,Anglais+Afrikaans,16220,Oui,4,Non,Oui,17,Non
+385,29,M,Master,Informatique,Non,Pas de financement,Moyen,Anglais+Xhosa,16401,Oui,5,Non,Non,13,Non
+386,23,F,Licence,Ingénierie,Oui,Manque d’offres,Faible,Anglais+Xhosa,16956,Non,5,Non,Non,2,Oui
+387,27,F,Licence,Finance,Non,Manque d’offres,Moyen,Anglais,18545,Non,1,Oui,Oui,20,Non
+388,23,F,Doctorat,Droit,Non,Manque d’offres,Faible,Anglais+Xhosa,9280,Oui,4,Non,Non,4,Oui
+389,21,F,Master,Finance,Non,Pas de réseau,Avancé,Anglais+Afrikaans,20875,Non,5,Non,Non,19,Non
+390,25,F,Diplôme technique,Éducation,Non,Pas de financement,Avancé,Anglais+Zulu,12528,Oui,5,Oui,Oui,4,Oui
+391,26,M,Master,Santé,Oui,Manque d’expérience,Faible,Anglais+Zulu,11731,Oui,1,Oui,Non,19,Non
+392,21,F,Diplôme technique,Santé,Non,Surqualification,Avancé,Anglais+Afrikaans,9612,Non,3,Non,Non,4,Oui
+393,26,M,Doctorat,Santé,Oui,Pas de financement,Avancé,Anglais+Zulu,9942,Oui,4,Non,Oui,4,Non
+394,24,F,Doctorat,Santé,Oui,Pas de réseau,Faible,Anglais+Xhosa,9168,Non,2,Non,Oui,8,Non
+395,24,M,Licence,Ingénierie,Oui,Manque d’expérience,Moyen,Anglais+Afrikaans,13902,Non,2,Non,Non,12,Non
+396,22,F,Licence,Droit,Oui,Surqualification,Faible,Anglais,8627,Oui,4,Oui,Non,19,Oui
+397,26,F,Licence,Finance,Non,Manque d’expérience,Faible,Anglais,16946,Non,5,Oui,Non,20,Non
+398,29,M,Doctorat,Finance,Non,Surqualification,Faible,Anglais,11281,Non,4,Oui,Oui,14,Non
+399,27,F,Diplôme technique,Communication,Oui,Manque d’offres,Avancé,Anglais,13468,Non,1,Oui,Non,13,Oui
+400,30,M,Doctorat,Éducation,Non,Surqualification,Moyen,Anglais+Xhosa,11221,Oui,2,Non,Non,2,Non
+401,23,M,Doctorat,Éducation,Non,Surqualification,Avancé,Anglais+Xhosa,19060,Oui,4,Oui,Non,12,Oui
+402,24,F,Licence,Finance,Non,Pas de réseau,Avancé,Anglais,13394,Oui,1,Oui,Non,15,Non
+403,23,F,Master,Santé,Non,Pas de réseau,Faible,Anglais+Xhosa,12096,Oui,3,Non,Non,15,Oui
+404,23,M,Licence,Ingénierie,Non,Pas de réseau,Avancé,Anglais+Afrikaans,12959,Oui,4,Oui,Oui,19,Non
+405,27,F,Master,Ingénierie,Non,Pas de financement,Moyen,Anglais+Afrikaans,20209,Oui,4,Oui,Non,17,Oui
+406,21,F,Diplôme technique,Ingénierie,Non,Manque d’offres,Faible,Anglais+Afrikaans,21362,Oui,4,Oui,Oui,2,Oui
+407,23,F,Diplôme technique,Droit,Oui,Manque d’offres,Moyen,Anglais,20590,Non,1,Non,Non,13,Oui
+408,26,M,Diplôme technique,Droit,Non,Surqualification,Moyen,Anglais,19199,Oui,3,Non,Non,14,Non
+409,27,F,Licence,Marketing,Oui,Pas de réseau,Avancé,Anglais,21851,Oui,2,Oui,Non,1,Non
+410,24,M,Licence,Communication,Non,Manque d’offres,Avancé,Anglais+Xhosa,12496,Oui,5,Oui,Oui,7,Non
+411,25,M,Licence,Ingénierie,Oui,Manque d’offres,Avancé,Anglais+Zulu,11123,Non,3,Non,Non,19,Oui
+412,23,M,Doctorat,Santé,Oui,Surqualification,Faible,Anglais+Zulu,19561,Non,3,Oui,Non,6,Non
+413,22,M,Licence,Communication,Non,Surqualification,Avancé,Anglais+Xhosa,17896,Oui,3,Non,Non,1,Non
+414,27,F,Doctorat,Ingénierie,Non,Manque d’expérience,Moyen,Anglais,10258,Non,3,Non,Oui,11,Non
+415,21,F,Diplôme technique,Droit,Non,Manque d’expérience,Moyen,Anglais,20327,Oui,4,Non,Oui,4,Non
+416,28,M,Licence,Informatique,Non,Surqualification,Faible,Anglais+Xhosa,19733,Non,2,Non,Non,10,Oui
+417,24,M,Doctorat,Finance,Non,Manque d’expérience,Avancé,Anglais+Afrikaans,20121,Non,1,Oui,Oui,14,Oui
+418,24,M,Diplôme technique,Marketing,Oui,Manque d’offres,Moyen,Anglais+Afrikaans,16898,Non,4,Oui,Non,1,Oui
+419,28,M,Diplôme technique,Ingénierie,Non,Surqualification,Moyen,Anglais+Xhosa,12278,Oui,1,Non,Oui,15,Non
+420,26,F,Licence,Ingénierie,Non,Surqualification,Moyen,Anglais+Xhosa,8139,Non,1,Non,Oui,9,Oui
+421,25,M,Master,Informatique,Non,Pas de réseau,Moyen,Anglais+Afrikaans,20616,Non,1,Non,Oui,12,Oui
+422,24,M,Master,Communication,Oui,Manque d’offres,Faible,Anglais+Afrikaans,12906,Oui,2,Oui,Oui,12,Non
+423,24,M,Diplôme technique,Informatique,Oui,Manque d’offres,Moyen,Anglais+Zulu,12617,Non,3,Non,Oui,12,Oui
+424,21,M,Master,Marketing,Non,Pas de financement,Moyen,Anglais+Zulu,21472,Non,5,Non,Oui,8,Non
+425,24,M,Master,Ingénierie,Non,Pas de financement,Moyen,Anglais+Zulu,13679,Oui,5,Non,Non,9,Non
+426,27,F,Doctorat,Marketing,Non,Pas de réseau,Moyen,Anglais,20830,Oui,3,Oui,Non,15,Oui
+427,26,F,Doctorat,Ingénierie,Oui,Pas de financement,Moyen,Anglais+Afrikaans,14616,Oui,3,Oui,Non,2,Non
+428,25,F,Doctorat,Ingénierie,Oui,Manque d’expérience,Avancé,Anglais,14647,Non,2,Oui,Non,11,Non
+429,22,F,Diplôme technique,Ingénierie,Oui,Surqualification,Faible,Anglais+Xhosa,21465,Oui,5,Non,Non,15,Oui
+430,25,F,Master,Santé,Non,Manque d’expérience,Faible,Anglais,17501,Non,4,Oui,Oui,9,Oui
+431,26,M,Licence,Éducation,Oui,Manque d’offres,Avancé,Anglais,20415,Oui,2,Non,Non,6,Non
+432,29,F,Master,Santé,Non,Pas de financement,Moyen,Anglais+Xhosa,18736,Non,5,Oui,Oui,7,Oui
+433,27,M,Diplôme technique,Finance,Non,Manque d’expérience,Avancé,Anglais,8194,Oui,4,Non,Oui,18,Oui
+434,29,F,Doctorat,Droit,Non,Manque d’offres,Moyen,Anglais,15733,Non,2,Oui,Non,18,Non
+435,26,F,Diplôme technique,Marketing,Non,Pas de financement,Moyen,Anglais+Zulu,18716,Non,5,Non,Non,11,Oui
+436,21,F,Doctorat,Éducation,Non,Surqualification,Moyen,Anglais+Xhosa,16399,Non,4,Oui,Oui,13,Non
+437,22,F,Diplôme technique,Finance,Non,Surqualification,Faible,Anglais+Xhosa,20470,Oui,1,Non,Oui,12,Non
+438,25,M,Licence,Communication,Non,Pas de financement,Avancé,Anglais+Xhosa,10445,Oui,5,Non,Oui,6,Oui
+439,23,F,Doctorat,Ingénierie,Non,Surqualification,Moyen,Anglais+Xhosa,14512,Oui,4,Oui,Non,16,Non
+440,30,M,Doctorat,Ingénierie,Non,Pas de réseau,Avancé,Anglais+Afrikaans,11728,Non,2,Oui,Oui,3,Non
+441,25,F,Master,Droit,Non,Pas de financement,Moyen,Anglais+Afrikaans,11717,Oui,4,Non,Non,11,Oui
+442,21,F,Diplôme technique,Droit,Oui,Pas de réseau,Faible,Anglais+Xhosa,19851,Oui,2,Non,Non,12,Non
+443,22,F,Master,Droit,Oui,Pas de financement,Avancé,Anglais+Afrikaans,20273,Non,4,Non,Non,20,Non
+444,30,M,Diplôme technique,Finance,Oui,Pas de réseau,Avancé,Anglais,11438,Oui,3,Oui,Non,18,Oui
+445,27,M,Licence,Santé,Oui,Surqualification,Faible,Anglais+Zulu,15773,Non,5,Oui,Oui,8,Non
+446,26,F,Master,Marketing,Oui,Surqualification,Faible,Anglais+Zulu,11829,Oui,2,Non,Oui,11,Non
+447,26,F,Doctorat,Santé,Non,Manque d’expérience,Faible,Anglais,16451,Non,4,Non,Non,10,Non
+448,27,M,Licence,Communication,Oui,Manque d’offres,Moyen,Anglais+Zulu,17617,Non,2,Non,Oui,4,Oui
+449,30,M,Diplôme technique,Marketing,Oui,Pas de réseau,Moyen,Anglais,20877,Non,1,Non,Non,3,Non
+450,29,F,Doctorat,Ingénierie,Oui,Pas de financement,Avancé,Anglais,17054,Oui,2,Non,Oui,13,Non
+451,22,F,Diplôme technique,Éducation,Non,Surqualification,Moyen,Anglais+Zulu,20412,Oui,5,Oui,Oui,11,Oui
+452,27,M,Doctorat,Éducation,Oui,Surqualification,Faible,Anglais,15679,Non,1,Non,Non,20,Oui
+453,30,F,Diplôme technique,Ingénierie,Oui,Pas de financement,Avancé,Anglais+Zulu,19837,Oui,5,Non,Non,16,Non
+454,24,M,Doctorat,Informatique,Oui,Manque d’offres,Moyen,Anglais+Xhosa,21343,Oui,4,Oui,Oui,6,Oui
+455,25,F,Diplôme technique,Communication,Non,Pas de financement,Faible,Anglais+Zulu,15559,Non,3,Oui,Oui,13,Oui
+456,21,F,Master,Éducation,Oui,Pas de réseau,Faible,Anglais+Zulu,13581,Oui,5,Oui,Non,7,Oui
+457,27,M,Doctorat,Ingénierie,Oui,Pas de réseau,Moyen,Anglais+Xhosa,20974,Non,2,Non,Non,9,Non
+458,21,M,Doctorat,Éducation,Non,Manque d’expérience,Avancé,Anglais+Zulu,9406,Oui,3,Non,Oui,16,Non
+459,29,F,Master,Marketing,Oui,Pas de financement,Moyen,Anglais,13129,Oui,2,Oui,Non,12,Non
+460,29,M,Diplôme technique,Informatique,Oui,Surqualification,Moyen,Anglais+Afrikaans,21857,Oui,1,Oui,Non,11,Oui
+461,24,F,Doctorat,Santé,Non,Manque d’expérience,Faible,Anglais+Xhosa,11077,Non,1,Non,Oui,15,Non
+462,26,M,Master,Marketing,Oui,Pas de financement,Avancé,Anglais+Zulu,15025,Non,1,Non,Non,12,Non
+463,27,M,Diplôme technique,Santé,Oui,Pas de financement,Moyen,Anglais+Xhosa,20617,Oui,4,Non,Oui,6,Oui
+464,22,M,Doctorat,Ingénierie,Non,Surqualification,Avancé,Anglais+Xhosa,19435,Non,1,Oui,Non,6,Non
+465,26,M,Doctorat,Droit,Non,Manque d’offres,Avancé,Anglais,14843,Non,5,Non,Oui,11,Non
+466,30,F,Diplôme technique,Marketing,Oui,Pas de financement,Faible,Anglais,11433,Non,2,Non,Non,1,Non
+467,26,F,Master,Marketing,Oui,Manque d’expérience,Faible,Anglais+Zulu,15187,Oui,1,Non,Non,4,Oui
+468,22,M,Doctorat,Ingénierie,Non,Surqualification,Faible,Anglais+Zulu,15372,Oui,5,Non,Oui,7,Non
+469,25,F,Diplôme technique,Ingénierie,Non,Pas de réseau,Moyen,Anglais+Xhosa,21974,Oui,5,Oui,Non,19,Oui
+470,29,F,Doctorat,Communication,Oui,Manque d’offres,Moyen,Anglais+Xhosa,17149,Non,1,Oui,Oui,10,Non
+471,25,F,Diplôme technique,Informatique,Oui,Surqualification,Avancé,Anglais+Xhosa,8493,Non,5,Non,Oui,17,Non
+472,27,F,Doctorat,Communication,Oui,Manque d’expérience,Moyen,Anglais,14139,Oui,4,Non,Non,18,Oui
+473,26,F,Licence,Finance,Oui,Pas de financement,Faible,Anglais+Xhosa,10276,Non,1,Non,Oui,10,Oui
+474,27,F,Master,Informatique,Oui,Manque d’expérience,Moyen,Anglais+Zulu,17461,Non,2,Oui,Non,18,Oui
+475,25,M,Master,Communication,Non,Pas de financement,Avancé,Anglais+Zulu,10102,Non,4,Non,Non,18,Non
+476,29,F,Licence,Santé,Non,Surqualification,Moyen,Anglais+Afrikaans,13006,Oui,3,Non,Non,6,Oui
+477,23,M,Diplôme technique,Informatique,Non,Manque d’offres,Moyen,Anglais+Xhosa,20088,Non,2,Oui,Non,13,Oui
+478,24,F,Master,Droit,Non,Surqualification,Avancé,Anglais,8158,Oui,2,Non,Oui,20,Oui
+479,27,M,Diplôme technique,Ingénierie,Non,Manque d’expérience,Avancé,Anglais+Afrikaans,16188,Oui,2,Oui,Oui,3,Oui
+480,27,F,Doctorat,Droit,Non,Manque d’expérience,Moyen,Anglais,21277,Oui,3,Non,Oui,7,Oui
+481,23,F,Licence,Finance,Oui,Pas de réseau,Faible,Anglais,18794,Oui,2,Oui,Oui,3,Oui
+482,30,F,Diplôme technique,Éducation,Oui,Pas de réseau,Faible,Anglais+Xhosa,21669,Non,5,Non,Non,3,Oui
+483,30,M,Diplôme technique,Éducation,Non,Pas de financement,Faible,Anglais+Xhosa,13810,Non,2,Non,Oui,20,Oui
+484,25,F,Master,Santé,Non,Manque d’expérience,Faible,Anglais+Xhosa,13567,Oui,4,Oui,Oui,13,Non
+485,27,M,Doctorat,Marketing,Non,Pas de réseau,Moyen,Anglais+Afrikaans,11694,Non,3,Non,Non,9,Non
+486,29,M,Master,Droit,Non,Pas de réseau,Moyen,Anglais,14867,Oui,1,Oui,Non,5,Non
+487,21,F,Doctorat,Communication,Non,Surqualification,Avancé,Anglais+Xhosa,14974,Non,3,Oui,Non,11,Oui
+488,25,F,Master,Éducation,Oui,Pas de financement,Avancé,Anglais+Xhosa,19235,Non,1,Non,Non,18,Non
+489,25,F,Diplôme technique,Marketing,Oui,Manque d’offres,Moyen,Anglais+Xhosa,20331,Oui,2,Non,Non,12,Non
+490,24,M,Diplôme technique,Éducation,Non,Surqualification,Faible,Anglais+Xhosa,14608,Non,1,Oui,Non,13,Oui
+491,27,M,Licence,Informatique,Non,Pas de financement,Avancé,Anglais+Zulu,20498,Non,5,Non,Oui,5,Non
+492,30,F,Diplôme technique,Communication,Non,Pas de financement,Avancé,Anglais,20757,Non,1,Oui,Non,13,Non
+493,30,F,Diplôme technique,Marketing,Non,Surqualification,Moyen,Anglais,19313,Non,1,Non,Non,4,Oui
+494,26,F,Diplôme technique,Éducation,Non,Pas de réseau,Moyen,Anglais+Xhosa,16808,Non,4,Non,Non,10,Non
+495,28,M,Diplôme technique,Marketing,Oui,Pas de réseau,Faible,Anglais+Afrikaans,12909,Non,5,Non,Non,20,Non
+496,28,M,Licence,Finance,Non,Manque d’offres,Moyen,Anglais,13342,Oui,1,Non,Non,19,Oui
+497,28,F,Doctorat,Finance,Oui,Manque d’offres,Avancé,Anglais+Afrikaans,17616,Non,1,Oui,Oui,3,Oui
+498,24,F,Licence,Communication,Oui,Pas de financement,Avancé,Anglais+Xhosa,8380,Oui,2,Oui,Non,11,Oui
+499,29,M,Licence,Ingénierie,Oui,Manque d’offres,Faible,Anglais+Xhosa,17299,Non,3,Oui,Non,8,Non
+500,28,F,Master,Santé,Non,Surqualification,Faible,Anglais,20867,Non,3,Oui,Oui,15,Oui
+501,23,F,Doctorat,Éducation,Non,Manque d’offres,Faible,Anglais+Xhosa,8527,Non,2,Oui,Oui,2,Oui
+502,22,M,Master,Éducation,Non,Manque d’expérience,Moyen,Anglais+Afrikaans,10279,Oui,1,Oui,Non,8,Non
+503,25,M,Licence,Communication,Oui,Pas de financement,Moyen,Anglais+Xhosa,10518,Oui,1,Oui,Non,18,Oui
+504,29,F,Diplôme technique,Informatique,Non,Manque d’expérience,Faible,Anglais+Xhosa,13410,Oui,4,Oui,Non,5,Oui
+505,30,F,Doctorat,Éducation,Non,Pas de financement,Avancé,Anglais,17309,Oui,3,Oui,Oui,9,Oui
+506,26,M,Diplôme technique,Droit,Non,Pas de financement,Avancé,Anglais+Zulu,18319,Oui,2,Non,Oui,1,Oui
+507,22,M,Licence,Droit,Oui,Surqualification,Moyen,Anglais+Afrikaans,21093,Oui,4,Non,Non,16,Oui
+508,24,M,Licence,Droit,Non,Pas de réseau,Avancé,Anglais+Zulu,17879,Oui,1,Oui,Non,8,Oui
+509,25,M,Licence,Droit,Non,Manque d’offres,Moyen,Anglais+Xhosa,17958,Oui,4,Oui,Oui,8,Non
+510,24,M,Doctorat,Communication,Oui,Manque d’expérience,Avancé,Anglais+Afrikaans,17402,Non,1,Oui,Oui,8,Oui
+511,24,F,Master,Droit,Oui,Manque d’offres,Moyen,Anglais+Xhosa,14404,Non,4,Non,Non,8,Oui
+512,23,M,Master,Finance,Non,Pas de financement,Moyen,Anglais+Zulu,14247,Oui,1,Non,Non,15,Oui
+513,21,M,Diplôme technique,Finance,Oui,Manque d’expérience,Avancé,Anglais+Zulu,11345,Non,4,Oui,Non,7,Oui
+514,21,F,Doctorat,Santé,Non,Manque d’expérience,Avancé,Anglais+Afrikaans,14400,Oui,1,Non,Non,5,Oui
+515,24,M,Diplôme technique,Marketing,Non,Pas de financement,Moyen,Anglais+Xhosa,9043,Non,2,Oui,Non,1,Oui
+516,28,F,Diplôme technique,Finance,Non,Manque d’offres,Avancé,Anglais+Zulu,16757,Non,4,Oui,Non,10,Non
+517,30,M,Master,Marketing,Oui,Manque d’expérience,Faible,Anglais+Afrikaans,14331,Oui,4,Non,Oui,8,Non
+518,22,M,Doctorat,Santé,Oui,Manque d’offres,Moyen,Anglais+Xhosa,11085,Non,3,Oui,Oui,1,Non
+519,28,M,Licence,Finance,Non,Manque d’expérience,Avancé,Anglais+Xhosa,15778,Oui,4,Oui,Oui,20,Non
+520,27,M,Diplôme technique,Finance,Non,Pas de réseau,Avancé,Anglais+Afrikaans,9779,Oui,2,Non,Non,16,Oui
+521,30,F,Licence,Santé,Oui,Surqualification,Avancé,Anglais+Xhosa,13387,Oui,2,Oui,Non,15,Non
+522,24,M,Doctorat,Santé,Non,Pas de financement,Faible,Anglais+Zulu,17330,Non,3,Oui,Non,14,Non
+523,27,F,Diplôme technique,Marketing,Oui,Surqualification,Moyen,Anglais+Zulu,15397,Non,1,Oui,Oui,18,Oui
+524,28,F,Licence,Ingénierie,Non,Manque d’offres,Faible,Anglais+Afrikaans,18469,Oui,2,Oui,Non,18,Non
+525,27,M,Licence,Éducation,Oui,Surqualification,Avancé,Anglais,12991,Oui,5,Non,Non,19,Oui
+526,24,F,Master,Informatique,Non,Surqualification,Faible,Anglais+Xhosa,9527,Non,5,Non,Oui,7,Oui
+527,23,F,Doctorat,Droit,Non,Surqualification,Faible,Anglais+Zulu,10808,Oui,1,Non,Non,14,Oui
+528,21,F,Doctorat,Ingénierie,Non,Surqualification,Moyen,Anglais+Zulu,9709,Oui,1,Oui,Oui,6,Oui
+529,22,M,Doctorat,Éducation,Non,Pas de financement,Moyen,Anglais+Zulu,19057,Oui,3,Non,Non,17,Oui
+530,27,M,Diplôme technique,Informatique,Oui,Pas de réseau,Avancé,Anglais+Zulu,17058,Oui,3,Non,Oui,19,Oui
+531,24,F,Master,Finance,Oui,Pas de réseau,Faible,Anglais+Xhosa,10910,Non,4,Oui,Oui,13,Non
+532,23,F,Diplôme technique,Ingénierie,Oui,Surqualification,Moyen,Anglais,8525,Oui,5,Oui,Non,19,Oui
+533,29,M,Doctorat,Ingénierie,Oui,Pas de réseau,Faible,Anglais+Xhosa,21540,Non,5,Non,Oui,13,Non
+534,28,F,Diplôme technique,Communication,Non,Pas de réseau,Faible,Anglais+Xhosa,19288,Oui,5,Non,Oui,9,Oui
+535,21,F,Licence,Marketing,Oui,Pas de financement,Moyen,Anglais+Afrikaans,17885,Non,1,Non,Oui,12,Non
+536,29,F,Diplôme technique,Droit,Non,Surqualification,Moyen,Anglais+Zulu,16005,Non,2,Non,Non,9,Oui
+537,24,F,Diplôme technique,Éducation,Non,Manque d’offres,Moyen,Anglais+Zulu,8439,Non,5,Non,Oui,14,Non
+538,22,F,Doctorat,Marketing,Non,Surqualification,Avancé,Anglais,11058,Oui,3,Non,Oui,12,Oui
+539,28,F,Licence,Communication,Non,Pas de réseau,Moyen,Anglais,11260,Non,1,Non,Non,12,Oui
+540,23,M,Doctorat,Marketing,Oui,Manque d’offres,Faible,Anglais+Afrikaans,9138,Oui,2,Oui,Non,8,Oui
+541,28,M,Licence,Santé,Non,Pas de réseau,Moyen,Anglais+Afrikaans,14322,Non,5,Oui,Non,11,Non
+542,29,M,Licence,Éducation,Oui,Pas de réseau,Moyen,Anglais+Afrikaans,12650,Oui,1,Non,Oui,18,Non
+543,29,F,Licence,Droit,Oui,Manque d’expérience,Avancé,Anglais+Zulu,11373,Oui,5,Oui,Non,12,Non
+544,30,M,Doctorat,Finance,Oui,Manque d’expérience,Avancé,Anglais+Zulu,11818,Non,1,Non,Non,3,Non
+545,26,F,Licence,Santé,Oui,Manque d’expérience,Faible,Anglais,12769,Non,5,Oui,Non,5,Oui
+546,28,F,Master,Santé,Oui,Pas de réseau,Avancé,Anglais,18806,Non,5,Oui,Non,11,Oui
+547,30,M,Master,Éducation,Oui,Surqualification,Faible,Anglais+Afrikaans,16591,Non,2,Oui,Oui,8,Non
+548,29,M,Master,Santé,Non,Surqualification,Avancé,Anglais+Xhosa,9146,Non,2,Oui,Non,18,Non
+549,27,F,Master,Finance,Non,Pas de réseau,Faible,Anglais,15449,Oui,3,Non,Non,19,Oui
+550,29,M,Doctorat,Éducation,Oui,Manque d’expérience,Faible,Anglais+Zulu,8941,Oui,1,Non,Oui,5,Non
+551,28,M,Diplôme technique,Informatique,Non,Pas de réseau,Avancé,Anglais,14039,Non,2,Oui,Non,4,Non
+552,23,F,Diplôme technique,Marketing,Oui,Surqualification,Faible,Anglais+Zulu,16495,Oui,1,Non,Non,17,Non
+553,28,F,Master,Finance,Oui,Surqualification,Avancé,Anglais+Xhosa,8180,Non,3,Oui,Non,16,Oui
+554,28,M,Diplôme technique,Droit,Oui,Pas de financement,Moyen,Anglais+Afrikaans,10815,Oui,2,Oui,Non,18,Non
+555,25,F,Master,Ingénierie,Oui,Surqualification,Moyen,Anglais+Afrikaans,13353,Non,2,Non,Non,11,Non
+556,24,M,Master,Finance,Oui,Pas de financement,Avancé,Anglais+Afrikaans,14731,Non,1,Oui,Oui,4,Oui
+557,25,M,Diplôme technique,Finance,Non,Pas de réseau,Moyen,Anglais,14407,Oui,2,Oui,Oui,20,Non
+558,29,F,Diplôme technique,Informatique,Oui,Surqualification,Moyen,Anglais+Afrikaans,10572,Non,3,Oui,Non,8,Non
+559,28,F,Licence,Finance,Non,Pas de financement,Avancé,Anglais+Zulu,9814,Oui,3,Non,Non,12,Oui
+560,24,M,Master,Finance,Non,Surqualification,Avancé,Anglais,10115,Non,4,Oui,Oui,18,Oui
+561,25,F,Diplôme technique,Informatique,Non,Pas de financement,Avancé,Anglais,16789,Non,2,Oui,Non,8,Oui
+562,28,M,Diplôme technique,Droit,Non,Surqualification,Moyen,Anglais+Xhosa,14855,Non,1,Non,Non,15,Oui
+563,22,F,Diplôme technique,Communication,Non,Surqualification,Faible,Anglais+Xhosa,15835,Non,3,Non,Oui,9,Non
+564,25,F,Licence,Droit,Non,Manque d’offres,Avancé,Anglais,20175,Oui,5,Non,Oui,19,Oui
+565,24,M,Master,Informatique,Oui,Pas de réseau,Avancé,Anglais,9126,Oui,3,Non,Non,2,Oui
+566,25,F,Master,Ingénierie,Non,Pas de réseau,Moyen,Anglais,14373,Non,4,Oui,Non,15,Oui
+567,26,M,Doctorat,Communication,Oui,Surqualification,Faible,Anglais,11382,Oui,4,Non,Non,20,Non
+568,26,F,Licence,Éducation,Oui,Pas de financement,Faible,Anglais,10128,Non,4,Oui,Non,15,Oui
+569,29,M,Licence,Santé,Oui,Manque d’expérience,Faible,Anglais+Zulu,11369,Non,5,Non,Oui,16,Non
+570,22,M,Master,Finance,Non,Pas de financement,Avancé,Anglais,13075,Oui,4,Oui,Oui,19,Non
+571,23,F,Doctorat,Ingénierie,Non,Surqualification,Moyen,Anglais+Zulu,15081,Oui,2,Non,Oui,14,Non
+572,23,M,Doctorat,Droit,Oui,Pas de réseau,Moyen,Anglais+Afrikaans,21400,Non,3,Oui,Oui,3,Oui
+573,24,F,Master,Informatique,Non,Pas de financement,Moyen,Anglais+Zulu,19627,Non,2,Non,Oui,6,Oui
+574,27,M,Diplôme technique,Ingénierie,Oui,Manque d’offres,Moyen,Anglais+Afrikaans,18891,Oui,2,Non,Non,1,Non
+575,23,M,Licence,Éducation,Oui,Surqualification,Moyen,Anglais+Xhosa,15778,Oui,3,Oui,Oui,18,Oui
+576,24,M,Doctorat,Droit,Non,Pas de financement,Faible,Anglais+Xhosa,10601,Oui,4,Oui,Non,15,Oui
+577,22,F,Diplôme technique,Informatique,Non,Pas de financement,Faible,Anglais,17891,Non,1,Non,Oui,18,Non
+578,27,F,Doctorat,Informatique,Oui,Manque d’offres,Faible,Anglais+Zulu,17422,Oui,5,Non,Oui,2,Oui
+579,27,M,Diplôme technique,Ingénierie,Oui,Manque d’expérience,Faible,Anglais+Afrikaans,13084,Non,5,Non,Non,12,Oui
+580,26,F,Diplôme technique,Informatique,Oui,Manque d’expérience,Avancé,Anglais+Afrikaans,17625,Oui,3,Oui,Oui,16,Oui
+581,29,F,Licence,Informatique,Non,Pas de financement,Faible,Anglais+Zulu,11325,Oui,2,Non,Non,5,Non
+582,28,M,Doctorat,Communication,Non,Surqualification,Faible,Anglais,16232,Non,2,Oui,Oui,3,Oui
+583,27,M,Doctorat,Santé,Oui,Manque d’offres,Avancé,Anglais+Zulu,19743,Oui,4,Non,Non,12,Non
+584,21,M,Diplôme technique,Santé,Oui,Manque d’expérience,Avancé,Anglais+Xhosa,19220,Non,4,Non,Oui,3,Non
+585,24,F,Master,Ingénierie,Oui,Pas de financement,Avancé,Anglais+Xhosa,15519,Non,4,Oui,Oui,9,Non
+586,27,M,Doctorat,Santé,Non,Surqualification,Avancé,Anglais,12512,Non,4,Non,Non,19,Non
+587,27,M,Licence,Marketing,Oui,Manque d’expérience,Avancé,Anglais+Zulu,11304,Non,5,Non,Non,9,Non
+588,30,F,Master,Droit,Oui,Pas de réseau,Avancé,Anglais+Xhosa,8121,Non,3,Oui,Oui,1,Oui
+589,21,M,Doctorat,Ingénierie,Non,Pas de financement,Avancé,Anglais+Afrikaans,10337,Non,3,Oui,Oui,20,Non
+590,30,F,Licence,Éducation,Non,Manque d’offres,Avancé,Anglais+Afrikaans,15302,Oui,5,Oui,Non,16,Non
+591,27,M,Master,Finance,Non,Surqualification,Faible,Anglais+Zulu,9048,Non,1,Non,Oui,14,Non
+592,28,F,Doctorat,Communication,Non,Pas de financement,Moyen,Anglais,21509,Oui,5,Oui,Non,5,Oui
+593,21,M,Licence,Santé,Oui,Manque d’expérience,Moyen,Anglais+Afrikaans,14541,Non,4,Non,Oui,13,Oui
+594,26,M,Master,Communication,Oui,Pas de financement,Faible,Anglais+Afrikaans,17909,Non,4,Non,Non,7,Oui
+595,25,M,Doctorat,Marketing,Oui,Pas de financement,Faible,Anglais+Xhosa,21231,Oui,2,Non,Oui,15,Oui
+596,27,F,Master,Santé,Non,Manque d’expérience,Faible,Anglais+Afrikaans,12044,Oui,5,Non,Oui,10,Oui
+597,27,F,Diplôme technique,Finance,Non,Pas de réseau,Faible,Anglais+Zulu,16615,Non,3,Oui,Oui,18,Oui
+598,29,M,Diplôme technique,Finance,Non,Surqualification,Moyen,Anglais+Zulu,13388,Non,3,Oui,Non,10,Oui
+599,29,M,Master,Informatique,Oui,Manque d’expérience,Moyen,Anglais+Xhosa,17326,Oui,1,Non,Non,11,Non
+600,30,F,Diplôme technique,Informatique,Non,Pas de financement,Moyen,Anglais+Zulu,16043,Non,4,Non,Oui,8,Oui
+601,24,M,Diplôme technique,Communication,Oui,Pas de financement,Avancé,Anglais+Zulu,15539,Oui,2,Oui,Non,19,Non
+602,28,M,Master,Éducation,Oui,Manque d’offres,Moyen,Anglais+Xhosa,15580,Oui,1,Non,Oui,17,Non
+603,24,M,Diplôme technique,Informatique,Oui,Pas de financement,Faible,Anglais+Xhosa,17439,Oui,5,Oui,Oui,14,Non
+604,25,F,Master,Informatique,Oui,Manque d’expérience,Moyen,Anglais+Xhosa,8640,Non,3,Oui,Non,5,Oui
+605,27,F,Master,Informatique,Non,Manque d’offres,Avancé,Anglais+Xhosa,20079,Oui,5,Non,Oui,18,Oui
+606,28,M,Diplôme technique,Ingénierie,Non,Pas de financement,Avancé,Anglais+Afrikaans,9492,Oui,4,Oui,Non,19,Oui
+607,21,F,Doctorat,Santé,Oui,Manque d’expérience,Moyen,Anglais,12717,Non,3,Oui,Oui,11,Non
+608,27,M,Master,Communication,Oui,Surqualification,Faible,Anglais+Xhosa,18588,Non,5,Oui,Oui,1,Oui
+609,26,F,Master,Ingénierie,Non,Surqualification,Avancé,Anglais+Zulu,15476,Non,5,Non,Non,20,Oui
+610,27,M,Doctorat,Ingénierie,Oui,Pas de financement,Moyen,Anglais,13681,Oui,3,Non,Oui,2,Non
+611,23,M,Diplôme technique,Communication,Non,Surqualification,Faible,Anglais,19473,Oui,4,Non,Oui,12,Non
+612,28,F,Licence,Finance,Oui,Pas de financement,Avancé,Anglais,21805,Oui,1,Oui,Oui,19,Oui
+613,23,M,Doctorat,Informatique,Oui,Manque d’offres,Faible,Anglais+Afrikaans,19659,Non,1,Oui,Non,4,Non
+614,30,M,Licence,Éducation,Oui,Surqualification,Faible,Anglais+Afrikaans,20981,Non,2,Oui,Non,3,Non
+615,29,F,Diplôme technique,Finance,Non,Manque d’offres,Faible,Anglais+Xhosa,12873,Oui,3,Non,Non,20,Oui
+616,21,F,Master,Ingénierie,Oui,Manque d’offres,Avancé,Anglais+Zulu,14407,Non,4,Oui,Oui,3,Non
+617,27,M,Master,Marketing,Non,Manque d’offres,Faible,Anglais+Xhosa,18043,Non,2,Oui,Non,17,Oui
+618,30,F,Diplôme technique,Marketing,Oui,Pas de réseau,Avancé,Anglais,21491,Non,3,Oui,Non,14,Oui
+619,30,F,Diplôme technique,Droit,Oui,Manque d’expérience,Faible,Anglais+Xhosa,21270,Oui,2,Oui,Oui,6,Non
+620,21,F,Diplôme technique,Informatique,Oui,Pas de financement,Moyen,Anglais,21923,Non,1,Non,Oui,7,Oui
+621,22,M,Diplôme technique,Informatique,Non,Manque d’offres,Faible,Anglais+Zulu,10869,Non,2,Non,Non,8,Non
+622,27,F,Diplôme technique,Finance,Oui,Pas de financement,Faible,Anglais,14800,Non,3,Non,Non,20,Non
+623,23,M,Diplôme technique,Finance,Non,Manque d’offres,Faible,Anglais+Afrikaans,12081,Oui,3,Oui,Oui,6,Oui
+624,28,F,Diplôme technique,Éducation,Oui,Manque d’expérience,Faible,Anglais+Xhosa,10942,Oui,2,Non,Non,6,Oui
+625,23,M,Master,Éducation,Oui,Surqualification,Moyen,Anglais+Xhosa,18120,Oui,3,Oui,Non,1,Oui
+626,21,M,Licence,Marketing,Non,Pas de financement,Avancé,Anglais+Afrikaans,20013,Oui,1,Non,Oui,16,Non
+627,25,F,Licence,Marketing,Oui,Pas de réseau,Faible,Anglais+Afrikaans,15079,Oui,1,Oui,Non,4,Oui
+628,27,M,Master,Communication,Oui,Pas de financement,Faible,Anglais+Afrikaans,15501,Oui,3,Non,Non,11,Oui
+629,26,M,Doctorat,Ingénierie,Oui,Manque d’expérience,Faible,Anglais,14302,Non,1,Non,Non,3,Oui
+630,24,F,Licence,Informatique,Non,Manque d’offres,Moyen,Anglais+Afrikaans,18798,Oui,3,Oui,Non,4,Oui
+631,28,F,Doctorat,Marketing,Oui,Pas de financement,Moyen,Anglais+Zulu,11005,Oui,2,Oui,Oui,13,Oui
+632,26,M,Master,Marketing,Non,Manque d’expérience,Faible,Anglais+Xhosa,19444,Oui,4,Oui,Oui,19,Non
+633,26,F,Doctorat,Éducation,Non,Manque d’offres,Faible,Anglais+Xhosa,17316,Non,5,Non,Oui,13,Non
+634,27,F,Master,Informatique,Non,Surqualification,Faible,Anglais+Zulu,9565,Non,3,Non,Non,14,Non
+635,25,M,Diplôme technique,Droit,Oui,Manque d’expérience,Faible,Anglais+Xhosa,14447,Oui,2,Non,Oui,13,Oui
+636,27,M,Diplôme technique,Droit,Oui,Pas de réseau,Avancé,Anglais+Afrikaans,19446,Non,5,Non,Oui,16,Non
+637,25,M,Licence,Communication,Non,Pas de financement,Avancé,Anglais+Xhosa,8715,Non,1,Non,Non,5,Oui
+638,22,F,Licence,Ingénierie,Non,Manque d’expérience,Avancé,Anglais+Zulu,11927,Non,4,Non,Non,11,Oui
+639,28,M,Doctorat,Droit,Oui,Manque d’offres,Faible,Anglais+Afrikaans,10587,Non,3,Non,Non,6,Oui
+640,21,F,Doctorat,Communication,Non,Manque d’offres,Moyen,Anglais,12485,Non,5,Oui,Oui,4,Oui
+641,29,M,Licence,Droit,Oui,Pas de réseau,Faible,Anglais,18290,Oui,2,Oui,Oui,10,Non
+642,21,M,Diplôme technique,Éducation,Non,Pas de financement,Moyen,Anglais+Afrikaans,16810,Non,5,Oui,Non,12,Non
+643,26,M,Master,Informatique,Non,Manque d’offres,Faible,Anglais+Xhosa,12782,Oui,2,Oui,Oui,6,Oui
+644,24,M,Diplôme technique,Éducation,Non,Manque d’offres,Faible,Anglais+Zulu,18922,Oui,1,Oui,Non,14,Oui
+645,22,F,Licence,Finance,Non,Manque d’offres,Moyen,Anglais+Afrikaans,9093,Oui,5,Non,Oui,9,Non
+646,21,F,Master,Éducation,Oui,Manque d’expérience,Avancé,Anglais+Zulu,19436,Oui,3,Non,Non,16,Non
+647,21,F,Doctorat,Informatique,Oui,Manque d’expérience,Faible,Anglais,19903,Non,5,Non,Oui,3,Non
+648,24,F,Licence,Droit,Non,Pas de financement,Faible,Anglais+Afrikaans,19835,Oui,1,Non,Non,6,Non
+649,24,F,Diplôme technique,Communication,Non,Pas de réseau,Faible,Anglais+Afrikaans,11559,Non,5,Non,Non,9,Oui
+650,21,M,Doctorat,Communication,Non,Pas de financement,Avancé,Anglais+Zulu,16085,Oui,4,Oui,Oui,13,Oui
+651,30,M,Doctorat,Éducation,Non,Pas de réseau,Faible,Anglais,14738,Non,4,Non,Non,7,Oui
+652,23,F,Licence,Droit,Oui,Surqualification,Avancé,Anglais,20482,Oui,3,Oui,Non,8,Oui
+653,24,F,Diplôme technique,Marketing,Oui,Manque d’offres,Faible,Anglais+Afrikaans,17057,Non,3,Oui,Non,12,Non
+654,23,M,Licence,Finance,Oui,Pas de réseau,Faible,Anglais+Zulu,9986,Oui,2,Non,Non,3,Non
+655,28,F,Master,Éducation,Non,Manque d’offres,Avancé,Anglais+Afrikaans,14041,Oui,2,Non,Non,11,Non
+656,22,F,Master,Communication,Non,Pas de réseau,Moyen,Anglais+Xhosa,9253,Oui,1,Non,Non,15,Oui
+657,30,M,Doctorat,Communication,Non,Surqualification,Faible,Anglais,20376,Oui,4,Oui,Non,4,Non
+658,24,F,Diplôme technique,Informatique,Non,Pas de réseau,Faible,Anglais,9723,Oui,4,Non,Non,17,Oui
+659,28,F,Master,Droit,Non,Pas de financement,Faible,Anglais+Afrikaans,16264,Oui,1,Non,Oui,9,Non
+660,25,F,Master,Communication,Oui,Manque d’expérience,Avancé,Anglais+Afrikaans,20558,Oui,3,Non,Oui,1,Oui
+661,26,F,Master,Finance,Non,Manque d’offres,Moyen,Anglais+Afrikaans,20771,Non,4,Non,Oui,20,Oui
+662,23,F,Master,Informatique,Oui,Manque d’expérience,Avancé,Anglais,13341,Oui,1,Non,Non,2,Non
+663,30,F,Licence,Ingénierie,Oui,Pas de réseau,Moyen,Anglais,14719,Non,1,Oui,Oui,18,Oui
+664,30,M,Doctorat,Marketing,Non,Pas de financement,Moyen,Anglais,15388,Oui,4,Oui,Oui,2,Oui
+665,22,F,Doctorat,Finance,Oui,Pas de réseau,Faible,Anglais+Xhosa,10700,Oui,2,Oui,Non,12,Non
+666,23,F,Master,Santé,Non,Surqualification,Avancé,Anglais+Afrikaans,12141,Non,5,Oui,Non,4,Non
+667,25,F,Doctorat,Marketing,Oui,Surqualification,Avancé,Anglais,11397,Oui,3,Non,Non,6,Oui
+668,22,F,Doctorat,Informatique,Non,Surqualification,Avancé,Anglais+Xhosa,16291,Oui,5,Non,Non,1,Oui
+669,30,M,Doctorat,Droit,Oui,Pas de réseau,Faible,Anglais+Afrikaans,8731,Oui,4,Non,Oui,17,Non
+670,21,F,Doctorat,Santé,Non,Surqualification,Avancé,Anglais+Zulu,15572,Oui,2,Oui,Non,1,Non
+671,25,M,Licence,Communication,Oui,Pas de réseau,Avancé,Anglais+Zulu,8437,Non,5,Non,Non,1,Oui
+672,30,F,Master,Marketing,Non,Pas de réseau,Faible,Anglais+Afrikaans,9199,Non,1,Non,Non,11,Non
+673,27,M,Diplôme technique,Droit,Non,Pas de financement,Faible,Anglais+Afrikaans,18467,Non,3,Oui,Non,13,Non
+674,27,F,Licence,Éducation,Non,Manque d’offres,Avancé,Anglais+Afrikaans,19378,Oui,1,Oui,Oui,10,Non
+675,24,F,Doctorat,Finance,Non,Manque d’expérience,Faible,Anglais+Zulu,19069,Oui,5,Non,Oui,1,Oui
+676,22,M,Master,Finance,Oui,Manque d’offres,Avancé,Anglais+Xhosa,20283,Non,1,Non,Oui,19,Non
+677,30,M,Master,Éducation,Oui,Manque d’expérience,Faible,Anglais+Zulu,15567,Non,4,Non,Non,19,Non
+678,24,F,Master,Communication,Oui,Manque d’expérience,Avancé,Anglais,14244,Non,3,Non,Non,12,Oui
+679,22,F,Master,Communication,Oui,Pas de réseau,Faible,Anglais+Afrikaans,13630,Oui,2,Oui,Non,3,Non
+680,25,F,Doctorat,Éducation,Oui,Surqualification,Moyen,Anglais+Zulu,20221,Non,4,Oui,Oui,6,Non
+681,30,F,Master,Informatique,Oui,Surqualification,Faible,Anglais+Afrikaans,14542,Oui,1,Non,Oui,7,Non
+682,22,F,Diplôme technique,Communication,Oui,Surqualification,Avancé,Anglais+Xhosa,11185,Non,5,Non,Oui,20,Oui
+683,30,M,Diplôme technique,Marketing,Oui,Manque d’offres,Faible,Anglais,14499,Oui,5,Oui,Non,16,Non
+684,21,F,Master,Santé,Oui,Surqualification,Avancé,Anglais+Zulu,8618,Non,1,Oui,Oui,6,Non
+685,26,F,Doctorat,Marketing,Non,Pas de financement,Faible,Anglais+Xhosa,8175,Non,3,Non,Oui,18,Non
+686,29,F,Diplôme technique,Ingénierie,Oui,Pas de réseau,Faible,Anglais+Xhosa,12105,Non,1,Oui,Non,7,Non
+687,27,M,Diplôme technique,Finance,Oui,Surqualification,Avancé,Anglais,9878,Non,1,Oui,Non,12,Non
+688,26,F,Diplôme technique,Santé,Oui,Surqualification,Avancé,Anglais,19617,Non,4,Oui,Non,4,Oui
+689,22,F,Licence,Droit,Non,Surqualification,Moyen,Anglais,10236,Oui,1,Oui,Non,5,Non
+690,29,F,Licence,Droit,Non,Manque d’offres,Moyen,Anglais+Xhosa,13359,Non,4,Oui,Oui,20,Non
+691,26,M,Diplôme technique,Santé,Non,Pas de réseau,Avancé,Anglais+Zulu,18982,Oui,3,Oui,Non,12,Non
+692,21,M,Doctorat,Informatique,Oui,Pas de financement,Avancé,Anglais+Xhosa,20266,Oui,3,Oui,Oui,19,Non
+693,27,F,Doctorat,Communication,Non,Surqualification,Faible,Anglais+Zulu,15606,Oui,3,Oui,Non,6,Oui
+694,28,F,Diplôme technique,Communication,Oui,Manque d’expérience,Moyen,Anglais+Xhosa,15942,Oui,3,Non,Non,15,Non
+695,22,M,Diplôme technique,Communication,Oui,Manque d’offres,Avancé,Anglais,15558,Oui,4,Oui,Non,6,Oui
+696,27,M,Doctorat,Informatique,Oui,Surqualification,Faible,Anglais+Afrikaans,9117,Non,1,Non,Non,17,Non
+697,26,M,Licence,Communication,Oui,Surqualification,Faible,Anglais+Xhosa,9352,Oui,5,Oui,Oui,5,Non
+698,28,F,Licence,Communication,Non,Manque d’offres,Moyen,Anglais+Xhosa,16985,Non,3,Non,Non,15,Non
+699,23,M,Diplôme technique,Marketing,Oui,Pas de financement,Moyen,Anglais+Afrikaans,18764,Non,4,Non,Oui,1,Non
+700,27,M,Doctorat,Informatique,Non,Manque d’expérience,Moyen,Anglais+Xhosa,11969,Non,5,Non,Non,20,Oui
+701,23,M,Licence,Communication,Oui,Manque d’expérience,Faible,Anglais+Xhosa,19691,Oui,1,Oui,Non,2,Oui
+702,29,M,Diplôme technique,Finance,Non,Pas de financement,Avancé,Anglais+Xhosa,15171,Non,4,Non,Oui,18,Non
+703,25,F,Master,Informatique,Non,Manque d’offres,Faible,Anglais+Xhosa,10297,Oui,3,Non,Oui,4,Oui
+704,30,F,Diplôme technique,Droit,Non,Surqualification,Moyen,Anglais+Xhosa,15713,Non,4,Oui,Non,10,Non
+705,29,F,Master,Droit,Oui,Pas de financement,Faible,Anglais+Zulu,21441,Non,4,Oui,Oui,10,Oui
+706,28,M,Diplôme technique,Finance,Non,Manque d’offres,Moyen,Anglais+Zulu,12573,Non,1,Non,Non,4,Oui
+707,28,M,Doctorat,Finance,Oui,Manque d’offres,Faible,Anglais+Zulu,21788,Non,3,Non,Oui,12,Oui
+708,27,F,Doctorat,Informatique,Oui,Manque d’offres,Moyen,Anglais+Xhosa,10643,Non,5,Non,Oui,6,Non
+709,30,F,Doctorat,Ingénierie,Non,Manque d’offres,Faible,Anglais+Xhosa,10794,Oui,1,Non,Oui,19,Oui
+710,25,F,Doctorat,Santé,Oui,Manque d’expérience,Avancé,Anglais+Zulu,21737,Oui,1,Oui,Non,17,Non
+711,26,F,Master,Communication,Oui,Manque d’offres,Faible,Anglais,8295,Oui,2,Oui,Oui,6,Oui
+712,24,M,Diplôme technique,Marketing,Oui,Pas de financement,Moyen,Anglais+Zulu,17944,Oui,1,Non,Oui,4,Oui
+713,22,M,Doctorat,Marketing,Oui,Surqualification,Moyen,Anglais+Xhosa,9646,Non,1,Oui,Non,16,Oui
+714,25,F,Licence,Finance,Oui,Surqualification,Avancé,Anglais+Xhosa,10903,Non,2,Non,Non,7,Oui
+715,28,F,Licence,Santé,Non,Pas de réseau,Moyen,Anglais,12819,Non,1,Oui,Non,20,Non
+716,24,F,Licence,Communication,Oui,Pas de financement,Avancé,Anglais+Zulu,10034,Non,3,Oui,Oui,5,Oui
+717,28,F,Diplôme technique,Marketing,Oui,Pas de réseau,Avancé,Anglais+Afrikaans,16759,Oui,4,Oui,Oui,20,Oui
+718,30,M,Licence,Communication,Oui,Pas de financement,Faible,Anglais,20147,Non,2,Non,Oui,11,Non
+719,30,M,Licence,Marketing,Oui,Manque d’offres,Faible,Anglais+Xhosa,14403,Oui,2,Oui,Non,15,Non
+720,27,M,Master,Communication,Non,Pas de réseau,Moyen,Anglais,10759,Non,1,Non,Oui,18,Oui
+721,26,M,Diplôme technique,Informatique,Oui,Manque d’offres,Moyen,Anglais,9271,Oui,2,Non,Non,13,Non
+722,21,F,Diplôme technique,Informatique,Non,Pas de financement,Faible,Anglais+Afrikaans,19000,Oui,3,Non,Oui,15,Non
+723,28,F,Licence,Santé,Non,Manque d’expérience,Moyen,Anglais+Afrikaans,20510,Oui,5,Oui,Non,4,Non
+724,26,M,Diplôme technique,Finance,Non,Manque d’expérience,Moyen,Anglais,8183,Oui,1,Non,Oui,18,Non
+725,23,F,Master,Marketing,Oui,Manque d’expérience,Moyen,Anglais+Zulu,19098,Oui,1,Oui,Non,3,Oui
+726,28,F,Master,Marketing,Oui,Manque d’expérience,Avancé,Anglais,12476,Oui,3,Non,Oui,11,Non
+727,24,F,Doctorat,Ingénierie,Oui,Surqualification,Avancé,Anglais+Afrikaans,10514,Oui,1,Oui,Oui,8,Non
+728,26,M,Master,Marketing,Non,Manque d’expérience,Moyen,Anglais+Afrikaans,15219,Non,1,Non,Non,12,Oui
+729,25,F,Doctorat,Informatique,Non,Pas de financement,Avancé,Anglais+Afrikaans,13866,Oui,1,Oui,Oui,5,Oui
+730,26,F,Licence,Finance,Oui,Manque d’expérience,Moyen,Anglais+Afrikaans,10915,Oui,3,Oui,Oui,8,Non
+731,25,M,Doctorat,Éducation,Non,Surqualification,Faible,Anglais+Afrikaans,11549,Non,1,Oui,Non,16,Oui
+732,30,M,Doctorat,Communication,Non,Manque d’offres,Avancé,Anglais+Xhosa,19704,Non,3,Oui,Oui,7,Oui
+733,25,M,Licence,Éducation,Non,Pas de réseau,Moyen,Anglais,8564,Non,3,Oui,Oui,13,Oui
+734,29,M,Doctorat,Droit,Non,Manque d’offres,Moyen,Anglais+Zulu,19059,Oui,5,Non,Oui,2,Oui
+735,21,F,Master,Informatique,Non,Manque d’offres,Moyen,Anglais+Zulu,16721,Oui,4,Oui,Non,12,Non
+736,29,M,Licence,Ingénierie,Non,Pas de réseau,Faible,Anglais+Xhosa,11541,Oui,3,Oui,Oui,2,Oui
+737,24,F,Diplôme technique,Santé,Non,Manque d’expérience,Faible,Anglais,15242,Oui,2,Non,Oui,16,Oui
+738,22,M,Doctorat,Santé,Non,Manque d’expérience,Moyen,Anglais+Afrikaans,19415,Oui,2,Non,Non,19,Non
+739,24,F,Master,Informatique,Oui,Pas de financement,Avancé,Anglais+Afrikaans,8782,Non,5,Oui,Non,4,Oui
+740,27,F,Diplôme technique,Droit,Oui,Manque d’expérience,Moyen,Anglais+Zulu,21705,Non,4,Non,Oui,17,Non
+741,28,M,Licence,Santé,Non,Manque d’expérience,Faible,Anglais+Zulu,18400,Non,1,Oui,Oui,3,Non
+742,29,F,Licence,Communication,Non,Pas de financement,Faible,Anglais+Xhosa,21295,Non,2,Non,Oui,11,Oui
+743,24,F,Licence,Santé,Non,Pas de réseau,Avancé,Anglais,16566,Non,3,Non,Oui,17,Oui
+744,28,M,Master,Marketing,Non,Pas de financement,Moyen,Anglais,18502,Oui,2,Oui,Non,19,Oui
+745,28,M,Diplôme technique,Informatique,Non,Manque d’expérience,Avancé,Anglais+Afrikaans,18855,Non,5,Oui,Oui,19,Oui
+746,28,F,Licence,Droit,Non,Manque d’expérience,Faible,Anglais,19737,Oui,4,Oui,Oui,18,Oui
+747,21,M,Master,Finance,Oui,Manque d’expérience,Moyen,Anglais,18814,Non,4,Oui,Oui,17,Oui
+748,22,M,Master,Informatique,Oui,Pas de financement,Moyen,Anglais+Xhosa,9684,Non,1,Oui,Oui,13,Non
+749,25,M,Diplôme technique,Communication,Non,Pas de réseau,Avancé,Anglais+Xhosa,14399,Oui,5,Non,Non,18,Oui
+750,24,M,Licence,Communication,Oui,Surqualification,Avancé,Anglais+Afrikaans,19310,Oui,5,Oui,Non,7,Oui
+751,27,M,Licence,Éducation,Oui,Pas de financement,Avancé,Anglais+Xhosa,13051,Non,2,Non,Oui,10,Oui
+752,24,F,Doctorat,Communication,Non,Pas de réseau,Faible,Anglais+Afrikaans,15274,Oui,5,Oui,Oui,11,Oui
+753,25,M,Licence,Finance,Oui,Manque d’expérience,Faible,Anglais+Xhosa,8858,Non,4,Oui,Non,5,Oui
+754,30,F,Diplôme technique,Finance,Non,Pas de réseau,Faible,Anglais+Xhosa,17800,Oui,4,Oui,Oui,15,Non
+755,26,F,Master,Droit,Oui,Manque d’offres,Moyen,Anglais+Zulu,8076,Oui,3,Non,Oui,7,Non
+756,28,F,Diplôme technique,Communication,Oui,Manque d’offres,Moyen,Anglais+Zulu,8797,Oui,3,Non,Non,10,Oui
+757,29,M,Licence,Éducation,Non,Surqualification,Avancé,Anglais+Xhosa,20655,Non,4,Non,Oui,14,Non
+758,29,M,Master,Éducation,Oui,Manque d’expérience,Avancé,Anglais+Xhosa,14183,Non,2,Oui,Non,13,Non
+759,26,M,Diplôme technique,Éducation,Non,Surqualification,Faible,Anglais+Xhosa,20568,Oui,1,Non,Oui,14,Non
+760,27,F,Licence,Informatique,Oui,Manque d’offres,Avancé,Anglais+Zulu,11305,Oui,3,Non,Non,13,Oui
+761,29,F,Licence,Droit,Oui,Surqualification,Faible,Anglais+Afrikaans,12091,Non,3,Oui,Oui,3,Non
+762,26,F,Licence,Marketing,Oui,Manque d’offres,Faible,Anglais,14138,Non,1,Non,Oui,16,Non
+763,26,F,Doctorat,Droit,Non,Manque d’offres,Moyen,Anglais+Xhosa,11908,Non,3,Oui,Oui,1,Non
+764,28,F,Doctorat,Droit,Non,Pas de réseau,Faible,Anglais+Xhosa,11276,Non,5,Non,Non,16,Non
+765,25,M,Doctorat,Santé,Oui,Manque d’expérience,Moyen,Anglais+Zulu,9497,Non,2,Non,Non,4,Oui
+766,25,M,Master,Ingénierie,Oui,Manque d’offres,Faible,Anglais+Xhosa,8262,Oui,2,Non,Oui,11,Non
+767,25,F,Diplôme technique,Droit,Non,Manque d’expérience,Avancé,Anglais+Afrikaans,14908,Oui,1,Non,Non,18,Non
+768,24,M,Master,Marketing,Non,Surqualification,Moyen,Anglais,8457,Oui,1,Non,Oui,16,Non
+769,22,F,Master,Ingénierie,Oui,Surqualification,Faible,Anglais+Xhosa,8238,Oui,4,Non,Non,20,Oui
+770,24,F,Licence,Communication,Oui,Manque d’offres,Faible,Anglais+Afrikaans,13523,Oui,1,Non,Oui,13,Non
+771,26,F,Licence,Éducation,Non,Manque d’expérience,Moyen,Anglais,21443,Oui,2,Oui,Non,10,Oui
+772,22,M,Master,Éducation,Non,Manque d’offres,Avancé,Anglais+Zulu,11148,Non,1,Oui,Oui,16,Non
+773,29,M,Diplôme technique,Droit,Oui,Manque d’offres,Moyen,Anglais,19140,Non,2,Oui,Non,10,Non
+774,23,M,Doctorat,Ingénierie,Non,Pas de réseau,Moyen,Anglais+Afrikaans,18960,Non,4,Non,Non,2,Non
+775,24,F,Master,Marketing,Oui,Surqualification,Avancé,Anglais,9035,Oui,4,Non,Non,17,Oui
+776,24,M,Master,Santé,Oui,Manque d’expérience,Avancé,Anglais,11613,Non,2,Non,Non,2,Non
+777,28,M,Diplôme technique,Santé,Non,Surqualification,Avancé,Anglais+Zulu,9582,Non,4,Non,Oui,7,Non
+778,25,M,Diplôme technique,Santé,Non,Pas de réseau,Moyen,Anglais,21056,Oui,1,Oui,Non,3,Non
+779,30,F,Master,Ingénierie,Oui,Pas de financement,Avancé,Anglais+Zulu,21686,Oui,3,Non,Non,10,Oui
+780,29,M,Licence,Marketing,Non,Surqualification,Moyen,Anglais+Xhosa,21606,Oui,2,Oui,Non,19,Non
+781,30,M,Licence,Éducation,Oui,Pas de réseau,Moyen,Anglais,18880,Oui,5,Oui,Non,19,Non
+782,25,F,Master,Éducation,Non,Surqualification,Moyen,Anglais,10750,Oui,5,Non,Non,18,Non
+783,22,M,Licence,Marketing,Oui,Manque d’expérience,Avancé,Anglais+Zulu,19862,Non,5,Non,Oui,6,Oui
+784,24,F,Diplôme technique,Informatique,Non,Pas de réseau,Avancé,Anglais,10736,Oui,3,Oui,Non,11,Non
+785,25,F,Doctorat,Marketing,Oui,Pas de financement,Moyen,Anglais+Afrikaans,8721,Oui,3,Non,Non,2,Oui
+786,24,M,Diplôme technique,Communication,Oui,Surqualification,Moyen,Anglais+Zulu,14810,Non,4,Non,Non,18,Non
+787,26,F,Doctorat,Droit,Non,Pas de réseau,Avancé,Anglais+Zulu,16396,Oui,2,Oui,Non,1,Oui
+788,23,M,Master,Ingénierie,Non,Pas de financement,Moyen,Anglais+Xhosa,9764,Non,5,Non,Oui,2,Non
+789,25,F,Master,Droit,Non,Manque d’expérience,Faible,Anglais,21363,Oui,1,Non,Oui,10,Non
+790,21,M,Doctorat,Finance,Non,Surqualification,Moyen,Anglais+Afrikaans,13359,Oui,2,Non,Non,13,Oui
+791,29,F,Licence,Informatique,Oui,Manque d’offres,Faible,Anglais+Xhosa,13286,Oui,2,Oui,Oui,7,Oui
+792,23,M,Master,Finance,Oui,Manque d’expérience,Faible,Anglais,17208,Oui,3,Oui,Non,12,Oui
+793,25,M,Doctorat,Droit,Oui,Manque d’expérience,Moyen,Anglais+Xhosa,18269,Oui,4,Non,Non,18,Oui
+794,21,M,Licence,Éducation,Non,Manque d’expérience,Moyen,Anglais,11105,Non,4,Non,Non,2,Non
+795,21,M,Doctorat,Finance,Oui,Manque d’expérience,Moyen,Anglais+Afrikaans,18234,Non,5,Oui,Oui,14,Non
+796,29,F,Master,Finance,Non,Pas de financement,Faible,Anglais+Xhosa,11393,Non,5,Non,Oui,17,Non
+797,25,M,Master,Santé,Oui,Manque d’offres,Avancé,Anglais+Zulu,16875,Oui,2,Oui,Oui,17,Oui
+798,23,M,Diplôme technique,Ingénierie,Non,Surqualification,Faible,Anglais+Xhosa,14472,Non,4,Non,Non,6,Non
+799,28,M,Doctorat,Éducation,Oui,Manque d’expérience,Faible,Anglais,15010,Oui,2,Non,Non,17,Oui
+800,22,M,Licence,Ingénierie,Non,Surqualification,Faible,Anglais+Afrikaans,9979,Non,1,Non,Oui,12,Non
+801,21,F,Master,Ingénierie,Oui,Pas de réseau,Avancé,Anglais+Xhosa,11807,Non,3,Non,Non,2,Non
+802,30,M,Diplôme technique,Éducation,Oui,Manque d’expérience,Faible,Anglais+Afrikaans,11502,Non,4,Non,Non,7,Non
+803,25,F,Diplôme technique,Finance,Oui,Manque d’expérience,Faible,Anglais,9734,Oui,2,Non,Oui,4,Oui
+804,28,M,Licence,Ingénierie,Non,Surqualification,Moyen,Anglais,13842,Oui,3,Non,Oui,15,Non
+805,28,F,Master,Santé,Non,Manque d’offres,Avancé,Anglais,13298,Non,5,Non,Oui,6,Oui
+806,28,F,Diplôme technique,Finance,Oui,Pas de réseau,Faible,Anglais+Zulu,10844,Oui,1,Non,Oui,8,Oui
+807,26,F,Licence,Marketing,Oui,Manque d’offres,Faible,Anglais+Afrikaans,8245,Non,2,Oui,Oui,11,Oui
+808,23,F,Licence,Communication,Non,Surqualification,Moyen,Anglais+Zulu,14588,Oui,4,Non,Non,3,Oui
+809,21,M,Doctorat,Informatique,Non,Pas de financement,Avancé,Anglais+Zulu,18715,Non,1,Non,Non,7,Non
+810,25,F,Doctorat,Santé,Non,Manque d’expérience,Avancé,Anglais+Afrikaans,13181,Oui,1,Oui,Non,16,Oui
+811,28,F,Master,Droit,Oui,Pas de financement,Moyen,Anglais,8196,Oui,2,Non,Non,7,Oui
+812,22,F,Diplôme technique,Santé,Oui,Surqualification,Faible,Anglais+Zulu,14376,Non,1,Oui,Oui,19,Non
+813,22,M,Diplôme technique,Ingénierie,Non,Surqualification,Moyen,Anglais+Afrikaans,11485,Non,4,Non,Non,20,Non
+814,27,M,Doctorat,Finance,Oui,Surqualification,Avancé,Anglais+Xhosa,15516,Oui,2,Non,Oui,1,Non
+815,28,M,Master,Droit,Non,Surqualification,Avancé,Anglais+Zulu,11606,Non,3,Non,Oui,2,Oui
+816,22,F,Diplôme technique,Droit,Oui,Manque d’expérience,Faible,Anglais,9081,Oui,1,Oui,Non,13,Non
+817,30,F,Licence,Droit,Non,Pas de financement,Faible,Anglais+Afrikaans,18780,Non,4,Oui,Oui,7,Oui
+818,21,F,Licence,Marketing,Non,Pas de réseau,Avancé,Anglais+Zulu,21354,Non,5,Oui,Oui,4,Non
+819,23,F,Licence,Finance,Oui,Manque d’expérience,Avancé,Anglais,12562,Oui,4,Oui,Non,10,Oui
+820,23,M,Licence,Finance,Non,Surqualification,Moyen,Anglais,18648,Non,3,Non,Oui,1,Non
+821,30,F,Doctorat,Ingénierie,Non,Surqualification,Moyen,Anglais+Afrikaans,18222,Oui,3,Oui,Oui,8,Non
+822,25,M,Master,Santé,Oui,Manque d’expérience,Faible,Anglais+Xhosa,14045,Non,1,Oui,Oui,11,Oui
+823,22,F,Licence,Communication,Oui,Pas de financement,Moyen,Anglais,8719,Oui,5,Oui,Non,6,Oui
+824,24,F,Licence,Santé,Non,Pas de financement,Avancé,Anglais+Afrikaans,9103,Non,1,Non,Non,13,Non
+825,22,F,Diplôme technique,Marketing,Oui,Manque d’offres,Moyen,Anglais+Zulu,11580,Non,3,Oui,Non,8,Non
+826,29,F,Doctorat,Santé,Non,Manque d’offres,Moyen,Anglais+Xhosa,14735,Oui,4,Non,Non,12,Non
+827,27,M,Diplôme technique,Santé,Non,Manque d’offres,Avancé,Anglais+Afrikaans,12940,Non,2,Non,Oui,13,Oui
+828,30,F,Diplôme technique,Ingénierie,Oui,Surqualification,Moyen,Anglais+Afrikaans,20575,Oui,2,Oui,Non,2,Oui
+829,30,M,Diplôme technique,Communication,Oui,Manque d’expérience,Avancé,Anglais+Xhosa,17811,Non,4,Oui,Non,5,Oui
+830,30,F,Licence,Éducation,Oui,Manque d’expérience,Moyen,Anglais,16185,Oui,5,Oui,Non,5,Oui
+831,24,M,Master,Informatique,Oui,Manque d’offres,Avancé,Anglais,9668,Non,4,Non,Non,20,Non
+832,29,F,Doctorat,Éducation,Non,Pas de financement,Avancé,Anglais+Zulu,19674,Oui,5,Oui,Oui,8,Non
+833,27,M,Licence,Éducation,Non,Manque d’offres,Faible,Anglais+Zulu,16784,Oui,3,Oui,Non,20,Oui
+834,28,F,Doctorat,Informatique,Non,Manque d’expérience,Faible,Anglais+Zulu,20964,Oui,1,Non,Non,9,Oui
+835,28,F,Licence,Droit,Oui,Surqualification,Moyen,Anglais+Xhosa,21934,Non,4,Oui,Non,14,Non
+836,25,M,Master,Finance,Oui,Manque d’offres,Faible,Anglais+Xhosa,17325,Oui,3,Non,Non,19,Oui
+837,30,M,Master,Droit,Non,Pas de réseau,Moyen,Anglais,10809,Non,3,Oui,Non,10,Non
+838,27,M,Doctorat,Ingénierie,Non,Pas de réseau,Moyen,Anglais+Afrikaans,12127,Oui,1,Non,Non,7,Oui
+839,25,M,Diplôme technique,Ingénierie,Non,Pas de financement,Moyen,Anglais,9552,Non,1,Non,Non,9,Non
+840,30,F,Licence,Éducation,Non,Manque d’expérience,Moyen,Anglais+Afrikaans,17828,Oui,4,Non,Non,14,Oui
+841,30,F,Doctorat,Éducation,Oui,Surqualification,Moyen,Anglais+Xhosa,13314,Oui,4,Oui,Non,1,Oui
+842,21,F,Diplôme technique,Ingénierie,Non,Pas de réseau,Moyen,Anglais+Xhosa,18336,Non,2,Oui,Oui,14,Non
+843,30,M,Master,Finance,Non,Manque d’offres,Faible,Anglais,19408,Oui,3,Oui,Non,14,Non
+844,22,M,Licence,Marketing,Oui,Surqualification,Faible,Anglais+Xhosa,14366,Oui,2,Oui,Oui,13,Oui
+845,24,F,Master,Communication,Non,Manque d’expérience,Faible,Anglais,19106,Oui,4,Oui,Non,9,Non
+846,24,F,Licence,Éducation,Oui,Manque d’offres,Avancé,Anglais+Xhosa,20638,Oui,2,Oui,Non,7,Oui
+847,25,M,Diplôme technique,Finance,Non,Surqualification,Avancé,Anglais+Zulu,19365,Non,5,Non,Oui,16,Oui
+848,22,M,Licence,Éducation,Non,Manque d’expérience,Moyen,Anglais,10177,Oui,3,Non,Non,9,Oui
+849,23,F,Diplôme technique,Marketing,Oui,Surqualification,Avancé,Anglais+Afrikaans,13440,Non,5,Oui,Non,20,Oui
+850,24,F,Licence,Finance,Non,Pas de réseau,Faible,Anglais,10872,Non,5,Oui,Oui,1,Oui
+851,23,F,Doctorat,Ingénierie,Oui,Pas de réseau,Moyen,Anglais+Zulu,18409,Oui,4,Non,Oui,13,Oui
+852,29,F,Master,Communication,Oui,Manque d’expérience,Moyen,Anglais+Zulu,20479,Oui,5,Non,Oui,2,Non
+853,22,F,Licence,Marketing,Oui,Pas de réseau,Faible,Anglais+Afrikaans,19266,Oui,4,Oui,Non,15,Non
+854,23,M,Licence,Informatique,Non,Manque d’expérience,Moyen,Anglais+Xhosa,13209,Oui,1,Oui,Non,5,Non
+855,21,M,Master,Marketing,Oui,Pas de financement,Avancé,Anglais+Xhosa,21951,Non,1,Oui,Non,8,Non
+856,27,F,Licence,Santé,Oui,Pas de réseau,Moyen,Anglais,18917,Non,2,Oui,Oui,3,Oui
+857,28,F,Master,Éducation,Oui,Surqualification,Moyen,Anglais+Zulu,15899,Oui,1,Non,Non,4,Non
+858,30,M,Diplôme technique,Informatique,Oui,Surqualification,Faible,Anglais+Zulu,9106,Oui,2,Oui,Non,4,Oui
+859,28,M,Doctorat,Éducation,Oui,Manque d’expérience,Avancé,Anglais+Afrikaans,13490,Oui,1,Non,Non,6,Non
+860,25,F,Doctorat,Droit,Oui,Pas de financement,Avancé,Anglais+Zulu,8289,Oui,1,Non,Non,16,Non
+861,21,M,Master,Droit,Non,Manque d’offres,Moyen,Anglais+Zulu,17970,Oui,1,Oui,Oui,3,Oui
+862,24,M,Doctorat,Informatique,Oui,Surqualification,Avancé,Anglais+Xhosa,17585,Oui,5,Non,Oui,6,Non
+863,25,F,Master,Marketing,Non,Pas de financement,Avancé,Anglais+Xhosa,15354,Oui,3,Oui,Non,18,Non
+864,25,F,Doctorat,Santé,Oui,Surqualification,Avancé,Anglais,14264,Non,2,Oui,Non,11,Non
+865,28,F,Licence,Santé,Non,Manque d’expérience,Avancé,Anglais,16372,Oui,1,Oui,Oui,6,Oui
+866,22,F,Licence,Marketing,Non,Manque d’expérience,Avancé,Anglais+Xhosa,18495,Oui,5,Non,Oui,9,Oui
+867,24,M,Doctorat,Marketing,Non,Manque d’offres,Moyen,Anglais+Afrikaans,20153,Oui,1,Oui,Oui,13,Oui
+868,25,M,Diplôme technique,Marketing,Oui,Manque d’expérience,Moyen,Anglais+Zulu,11808,Oui,3,Oui,Oui,10,Non
+869,30,F,Doctorat,Ingénierie,Non,Manque d’offres,Avancé,Anglais,16248,Non,2,Oui,Non,18,Non
+870,24,M,Licence,Santé,Oui,Manque d’expérience,Faible,Anglais,17625,Oui,5,Oui,Non,10,Non
+871,27,F,Doctorat,Communication,Oui,Surqualification,Avancé,Anglais+Xhosa,19544,Oui,4,Non,Non,10,Non
+872,22,F,Licence,Finance,Oui,Manque d’expérience,Faible,Anglais+Afrikaans,8217,Oui,4,Oui,Oui,19,Oui
+873,29,F,Diplôme technique,Informatique,Non,Pas de réseau,Moyen,Anglais+Afrikaans,11811,Non,4,Non,Non,9,Oui
+874,24,F,Diplôme technique,Marketing,Non,Pas de financement,Moyen,Anglais+Xhosa,8347,Non,1,Non,Non,4,Oui
+875,23,M,Doctorat,Communication,Oui,Surqualification,Moyen,Anglais+Afrikaans,18098,Oui,2,Non,Oui,4,Oui
+876,25,F,Licence,Santé,Oui,Pas de financement,Avancé,Anglais+Zulu,20434,Non,3,Oui,Non,13,Oui
+877,23,M,Diplôme technique,Santé,Non,Pas de réseau,Moyen,Anglais+Afrikaans,10032,Non,4,Non,Non,7,Oui
+878,22,M,Master,Finance,Oui,Pas de financement,Avancé,Anglais,13060,Non,2,Non,Oui,3,Oui
+879,21,F,Doctorat,Marketing,Non,Pas de réseau,Avancé,Anglais+Zulu,11873,Oui,2,Non,Oui,18,Oui
+880,23,F,Master,Droit,Oui,Manque d’expérience,Moyen,Anglais,20089,Oui,2,Oui,Oui,16,Non
+881,25,M,Doctorat,Informatique,Oui,Manque d’expérience,Moyen,Anglais+Afrikaans,15020,Oui,3,Oui,Non,7,Non
+882,30,F,Licence,Droit,Non,Pas de réseau,Moyen,Anglais,20406,Non,3,Non,Non,5,Non
+883,30,F,Licence,Ingénierie,Oui,Surqualification,Faible,Anglais+Xhosa,11990,Oui,5,Non,Non,17,Non
+884,25,F,Master,Ingénierie,Non,Manque d’expérience,Faible,Anglais,18154,Oui,3,Non,Non,2,Oui
+885,28,M,Licence,Finance,Oui,Surqualification,Avancé,Anglais+Zulu,9300,Oui,1,Non,Non,16,Oui
+886,22,M,Licence,Marketing,Non,Pas de financement,Faible,Anglais+Afrikaans,8981,Oui,1,Non,Oui,16,Non
+887,28,M,Licence,Communication,Oui,Manque d’expérience,Faible,Anglais+Xhosa,10253,Non,2,Oui,Non,4,Oui
+888,25,F,Master,Communication,Oui,Pas de réseau,Moyen,Anglais+Zulu,14136,Oui,5,Oui,Oui,4,Oui
+889,27,F,Licence,Finance,Non,Pas de réseau,Moyen,Anglais+Afrikaans,16171,Non,5,Non,Oui,8,Oui
+890,25,F,Diplôme technique,Ingénierie,Non,Manque d’expérience,Avancé,Anglais+Afrikaans,12859,Oui,4,Non,Non,2,Oui
+891,29,F,Doctorat,Santé,Non,Pas de réseau,Avancé,Anglais+Afrikaans,11309,Oui,3,Non,Non,13,Oui
+892,29,M,Diplôme technique,Marketing,Oui,Manque d’expérience,Faible,Anglais+Xhosa,10484,Oui,2,Non,Oui,6,Non
+893,28,M,Master,Informatique,Oui,Manque d’offres,Avancé,Anglais+Afrikaans,14156,Oui,2,Oui,Oui,3,Oui
+894,28,F,Master,Informatique,Non,Manque d’expérience,Moyen,Anglais+Zulu,11348,Oui,3,Non,Non,3,Non
+895,22,M,Licence,Éducation,Non,Surqualification,Moyen,Anglais+Afrikaans,18519,Non,1,Oui,Oui,8,Oui
+896,30,M,Diplôme technique,Finance,Oui,Pas de financement,Faible,Anglais+Afrikaans,8621,Non,2,Non,Oui,14,Non
+897,21,M,Master,Informatique,Non,Pas de réseau,Moyen,Anglais+Zulu,11900,Oui,2,Non,Non,20,Oui
+898,27,M,Doctorat,Santé,Oui,Pas de financement,Moyen,Anglais+Xhosa,19883,Non,3,Non,Oui,12,Oui
+899,26,F,Master,Santé,Non,Manque d’expérience,Moyen,Anglais+Afrikaans,17798,Non,4,Oui,Non,15,Oui
+900,30,F,Diplôme technique,Droit,Non,Manque d’expérience,Moyen,Anglais,15270,Oui,2,Non,Non,5,Non
+901,25,F,Doctorat,Informatique,Oui,Manque d’expérience,Moyen,Anglais+Zulu,20111,Non,1,Oui,Non,15,Oui
+902,21,M,Doctorat,Santé,Oui,Surqualification,Faible,Anglais,13385,Oui,4,Oui,Oui,20,Non
+903,22,M,Licence,Droit,Oui,Pas de financement,Avancé,Anglais+Xhosa,10199,Non,4,Non,Oui,2,Oui
+904,24,F,Doctorat,Informatique,Non,Pas de financement,Faible,Anglais,12556,Oui,3,Oui,Oui,17,Non
+905,30,F,Licence,Éducation,Oui,Pas de réseau,Faible,Anglais,13202,Oui,1,Non,Non,7,Oui
+906,30,M,Licence,Finance,Oui,Manque d’expérience,Faible,Anglais+Zulu,18544,Oui,2,Non,Non,7,Non
+907,21,F,Master,Communication,Oui,Pas de réseau,Avancé,Anglais+Xhosa,20893,Oui,3,Non,Non,11,Oui
+908,25,F,Master,Marketing,Non,Surqualification,Moyen,Anglais+Xhosa,20459,Non,1,Oui,Oui,2,Oui
+909,30,F,Licence,Finance,Non,Manque d’offres,Avancé,Anglais+Xhosa,8648,Non,2,Non,Oui,19,Non
+910,21,F,Diplôme technique,Informatique,Non,Surqualification,Faible,Anglais,16533,Oui,1,Non,Non,1,Non
+911,23,F,Licence,Informatique,Non,Manque d’offres,Avancé,Anglais,20972,Non,5,Oui,Non,5,Non
+912,28,F,Diplôme technique,Finance,Oui,Manque d’expérience,Faible,Anglais,14797,Oui,3,Oui,Oui,11,Oui
+913,29,M,Doctorat,Éducation,Oui,Pas de financement,Moyen,Anglais+Xhosa,18617,Non,4,Oui,Non,9,Oui
+914,28,F,Doctorat,Ingénierie,Non,Pas de financement,Faible,Anglais,21315,Oui,5,Oui,Non,6,Oui
+915,25,F,Doctorat,Informatique,Non,Pas de réseau,Moyen,Anglais+Afrikaans,12726,Oui,1,Oui,Non,12,Non
+916,23,M,Licence,Santé,Non,Manque d’offres,Faible,Anglais+Xhosa,20297,Oui,4,Non,Oui,15,Oui
+917,30,F,Diplôme technique,Ingénierie,Non,Pas de réseau,Faible,Anglais+Afrikaans,8388,Oui,2,Oui,Non,7,Oui
+918,27,F,Licence,Droit,Oui,Manque d’expérience,Avancé,Anglais+Xhosa,11752,Non,4,Oui,Non,2,Oui
+919,28,M,Doctorat,Droit,Non,Pas de financement,Moyen,Anglais+Zulu,21876,Non,1,Oui,Oui,13,Oui
+920,22,F,Master,Communication,Oui,Pas de réseau,Faible,Anglais,20007,Oui,1,Non,Oui,13,Oui
+921,28,F,Doctorat,Droit,Non,Manque d’offres,Moyen,Anglais,13427,Non,1,Non,Oui,5,Non
+922,26,M,Doctorat,Droit,Non,Manque d’expérience,Avancé,Anglais+Xhosa,13615,Oui,5,Oui,Non,10,Oui
+923,27,M,Master,Marketing,Oui,Manque d’expérience,Moyen,Anglais+Afrikaans,11969,Non,3,Oui,Non,17,Oui
+924,26,F,Diplôme technique,Finance,Non,Manque d’offres,Avancé,Anglais+Zulu,11372,Non,2,Non,Non,3,Oui
+925,26,M,Doctorat,Droit,Oui,Pas de réseau,Avancé,Anglais+Xhosa,16836,Non,5,Non,Non,8,Non
+926,22,F,Diplôme technique,Informatique,Oui,Surqualification,Moyen,Anglais,8885,Oui,5,Non,Oui,6,Non
+927,23,M,Master,Finance,Non,Pas de réseau,Moyen,Anglais+Zulu,18895,Non,2,Non,Oui,7,Oui
+928,26,M,Master,Informatique,Non,Manque d’offres,Faible,Anglais,12068,Non,2,Non,Non,11,Non
+929,27,M,Master,Finance,Oui,Pas de financement,Avancé,Anglais+Afrikaans,21130,Non,1,Oui,Oui,15,Non
+930,28,M,Licence,Informatique,Oui,Pas de réseau,Moyen,Anglais+Afrikaans,19261,Non,1,Oui,Non,1,Oui
+931,25,M,Diplôme technique,Marketing,Non,Surqualification,Avancé,Anglais+Zulu,19407,Oui,3,Non,Oui,15,Non
+932,27,M,Licence,Informatique,Oui,Pas de réseau,Faible,Anglais,19788,Oui,3,Non,Non,3,Oui
+933,29,F,Master,Ingénierie,Non,Pas de financement,Moyen,Anglais+Afrikaans,11644,Oui,4,Oui,Non,8,Non
+934,21,F,Doctorat,Ingénierie,Oui,Manque d’expérience,Moyen,Anglais+Zulu,17962,Oui,4,Non,Non,20,Non
+935,28,F,Licence,Informatique,Oui,Pas de réseau,Avancé,Anglais+Zulu,14250,Non,3,Oui,Non,17,Oui
+936,22,M,Doctorat,Ingénierie,Non,Manque d’expérience,Moyen,Anglais+Xhosa,16543,Oui,5,Non,Oui,10,Oui
+937,26,F,Licence,Communication,Non,Pas de financement,Moyen,Anglais+Afrikaans,13269,Non,3,Non,Oui,18,Non
+938,25,M,Diplôme technique,Droit,Non,Surqualification,Avancé,Anglais,11007,Non,4,Non,Oui,6,Non
+939,26,F,Doctorat,Droit,Non,Pas de réseau,Faible,Anglais+Afrikaans,15247,Non,3,Oui,Oui,5,Non
+940,22,F,Licence,Finance,Oui,Manque d’expérience,Moyen,Anglais+Xhosa,18318,Oui,3,Non,Oui,18,Oui
+941,27,M,Master,Communication,Oui,Surqualification,Faible,Anglais+Zulu,8099,Oui,4,Non,Oui,11,Oui
+942,29,M,Master,Éducation,Oui,Manque d’expérience,Avancé,Anglais,9058,Non,1,Non,Non,2,Non
+943,21,M,Diplôme technique,Santé,Oui,Manque d’expérience,Avancé,Anglais+Zulu,16055,Non,3,Oui,Oui,4,Non
+944,29,F,Diplôme technique,Éducation,Oui,Manque d’expérience,Faible,Anglais+Xhosa,9146,Oui,3,Oui,Oui,3,Oui
+945,28,F,Licence,Droit,Non,Pas de réseau,Moyen,Anglais,11153,Oui,3,Non,Non,14,Oui
+946,27,F,Master,Ingénierie,Oui,Manque d’expérience,Moyen,Anglais+Afrikaans,8853,Non,5,Oui,Non,17,Non
+947,21,F,Doctorat,Éducation,Non,Pas de financement,Avancé,Anglais+Xhosa,18393,Oui,5,Non,Non,18,Non
+948,24,M,Licence,Ingénierie,Oui,Manque d’offres,Avancé,Anglais+Zulu,10318,Oui,4,Oui,Non,1,Oui
+949,29,F,Licence,Marketing,Oui,Surqualification,Moyen,Anglais+Zulu,11345,Non,1,Oui,Oui,20,Non
+950,26,F,Master,Finance,Non,Surqualification,Faible,Anglais+Zulu,10057,Non,3,Oui,Non,6,Oui
+951,30,F,Diplôme technique,Éducation,Oui,Pas de réseau,Avancé,Anglais,9503,Non,5,Oui,Oui,11,Non
+952,28,F,Doctorat,Informatique,Oui,Pas de réseau,Moyen,Anglais+Zulu,10845,Non,1,Oui,Oui,12,Oui
+953,28,F,Diplôme technique,Finance,Oui,Pas de réseau,Moyen,Anglais,17709,Non,2,Oui,Non,2,Oui
+954,21,M,Licence,Finance,Non,Manque d’offres,Moyen,Anglais+Zulu,16992,Non,4,Non,Non,5,Oui
+955,24,M,Licence,Droit,Oui,Pas de financement,Faible,Anglais+Afrikaans,21618,Non,2,Oui,Non,4,Oui
+956,25,F,Master,Informatique,Oui,Surqualification,Moyen,Anglais+Zulu,21029,Non,2,Oui,Oui,8,Non
+957,29,F,Diplôme technique,Ingénierie,Non,Surqualification,Avancé,Anglais+Afrikaans,11348,Oui,3,Non,Non,1,Non
+958,23,M,Licence,Santé,Non,Pas de réseau,Faible,Anglais+Zulu,11871,Oui,4,Non,Non,13,Non
+959,25,F,Licence,Marketing,Non,Pas de réseau,Avancé,Anglais,16313,Non,1,Oui,Oui,1,Non
+960,28,F,Diplôme technique,Santé,Non,Pas de financement,Faible,Anglais+Afrikaans,9280,Non,2,Non,Non,19,Non
+961,28,M,Master,Droit,Non,Manque d’expérience,Moyen,Anglais+Xhosa,14983,Non,5,Oui,Oui,2,Non
+962,22,F,Master,Éducation,Non,Pas de financement,Moyen,Anglais,19878,Non,4,Non,Oui,13,Non
+963,21,F,Doctorat,Éducation,Oui,Pas de réseau,Faible,Anglais+Xhosa,15652,Oui,3,Non,Oui,19,Non
+964,30,F,Doctorat,Éducation,Oui,Surqualification,Moyen,Anglais,13103,Non,2,Oui,Non,4,Non
+965,24,F,Doctorat,Santé,Oui,Pas de financement,Avancé,Anglais+Afrikaans,10689,Oui,1,Non,Non,8,Non
+966,23,F,Diplôme technique,Ingénierie,Oui,Manque d’expérience,Moyen,Anglais+Xhosa,19823,Non,2,Oui,Oui,2,Non
+967,25,F,Doctorat,Santé,Oui,Manque d’offres,Faible,Anglais+Xhosa,11236,Oui,4,Non,Non,19,Non
+968,29,M,Doctorat,Informatique,Oui,Manque d’offres,Avancé,Anglais+Afrikaans,12012,Oui,1,Non,Oui,18,Oui
+969,21,F,Diplôme technique,Éducation,Non,Surqualification,Avancé,Anglais,14947,Oui,3,Non,Non,3,Non
+970,29,F,Doctorat,Finance,Oui,Manque d’expérience,Faible,Anglais+Xhosa,10890,Non,5,Non,Non,1,Non
+971,27,F,Master,Communication,Oui,Pas de financement,Avancé,Anglais+Xhosa,17926,Oui,4,Non,Oui,16,Oui
+972,22,M,Licence,Informatique,Oui,Pas de réseau,Avancé,Anglais+Afrikaans,12079,Oui,5,Oui,Non,19,Non
+973,24,F,Master,Ingénierie,Oui,Pas de réseau,Faible,Anglais,12966,Oui,2,Oui,Oui,13,Non
+974,22,M,Master,Informatique,Non,Manque d’expérience,Avancé,Anglais+Zulu,12675,Non,3,Non,Oui,10,Oui
+975,28,F,Licence,Ingénierie,Oui,Pas de financement,Moyen,Anglais,17444,Non,3,Oui,Oui,20,Non
+976,22,M,Master,Informatique,Non,Manque d’expérience,Moyen,Anglais+Afrikaans,15344,Oui,3,Non,Oui,13,Non
+977,23,F,Licence,Santé,Oui,Pas de financement,Faible,Anglais+Xhosa,18413,Oui,4,Non,Non,15,Non
+978,28,F,Master,Communication,Non,Manque d’offres,Avancé,Anglais+Xhosa,11299,Oui,5,Non,Oui,8,Non
+979,25,F,Diplôme technique,Marketing,Non,Pas de financement,Avancé,Anglais+Afrikaans,12454,Non,4,Non,Oui,16,Oui
+980,29,F,Diplôme technique,Marketing,Oui,Pas de financement,Moyen,Anglais,20800,Non,3,Oui,Oui,20,Non
+981,25,M,Doctorat,Éducation,Non,Pas de réseau,Moyen,Anglais+Xhosa,15883,Oui,3,Non,Oui,9,Non
+982,27,M,Diplôme technique,Santé,Non,Surqualification,Faible,Anglais+Zulu,9310,Non,2,Oui,Oui,12,Oui
+983,28,F,Licence,Informatique,Non,Pas de réseau,Moyen,Anglais+Afrikaans,13891,Non,1,Oui,Non,15,Oui
+984,28,F,Doctorat,Ingénierie,Oui,Manque d’offres,Faible,Anglais,14524,Oui,5,Non,Oui,16,Non
+985,24,M,Master,Informatique,Oui,Manque d’expérience,Avancé,Anglais,14188,Non,5,Oui,Non,5,Non
+986,28,M,Diplôme technique,Santé,Oui,Pas de réseau,Moyen,Anglais+Zulu,10748,Oui,3,Non,Non,15,Oui
+987,29,M,Doctorat,Marketing,Oui,Manque d’expérience,Avancé,Anglais+Xhosa,15712,Oui,5,Non,Oui,18,Non
+988,23,M,Diplôme technique,Communication,Oui,Pas de réseau,Moyen,Anglais,15231,Oui,1,Oui,Oui,12,Non
+989,27,M,Doctorat,Communication,Non,Surqualification,Moyen,Anglais+Zulu,14925,Oui,4,Oui,Oui,8,Non
+990,24,M,Licence,Marketing,Oui,Surqualification,Avancé,Anglais+Zulu,16278,Oui,4,Non,Non,5,Non
+991,30,M,Licence,Ingénierie,Non,Pas de réseau,Avancé,Anglais+Zulu,17984,Oui,5,Oui,Oui,10,Non
+992,29,M,Master,Éducation,Non,Pas de réseau,Moyen,Anglais+Afrikaans,20041,Oui,3,Oui,Non,6,Oui
+993,23,M,Doctorat,Marketing,Oui,Manque d’expérience,Faible,Anglais+Afrikaans,15101,Non,3,Non,Non,13,Oui
+994,22,F,Licence,Marketing,Oui,Manque d’expérience,Moyen,Anglais,20457,Oui,1,Oui,Oui,9,Non
+995,25,F,Master,Droit,Oui,Manque d’offres,Moyen,Anglais,10553,Non,1,Oui,Oui,6,Oui
+996,27,F,Doctorat,Éducation,Oui,Manque d’offres,Moyen,Anglais,21428,Non,4,Oui,Non,12,Non
+997,26,M,Master,Finance,Oui,Pas de réseau,Avancé,Anglais+Xhosa,21001,Oui,2,Non,Oui,1,Non
+998,29,M,Licence,Marketing,Non,Surqualification,Avancé,Anglais+Xhosa,15897,Oui,4,Non,Oui,14,Oui
+999,25,M,Master,Santé,Non,Manque d’offres,Moyen,Anglais,8324,Oui,2,Oui,Non,10,Non
+1000,21,M,Doctorat,Santé,Non,Manque d’offres,Avancé,Anglais+Afrikaans,20483,Non,5,Oui,Oui,5,Oui
