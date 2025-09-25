@@ -33,6 +33,7 @@ except Exception:
     EXTRAS_OK = False
 
 st.set_page_config(page_title="Dashboard Jeunes Diplômés – Afrique du Sud", layout="wide", initial_sidebar_state="expanded")
+
 st.caption("Lorsque le CSV est modifié ou qu'une réponse est ajoutée, le dashboard se recharge.")
 
 
@@ -423,6 +424,7 @@ with st.expander("Ouvrir le formulaire d'ajout"):
             st.rerun()
         except Exception as e:
             st.error(f"Impossible d'écrire dans le CSV ({csv_path}). Erreur : {e}")
+
 
 
 
