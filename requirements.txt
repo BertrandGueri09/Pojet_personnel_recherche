@@ -1,0 +1,13 @@
+
+
+streamlit
+pandas
+plotly
+matplotlib
+wordcloud
+streamlit-extras
+numpy
+pillow
+
+
+
