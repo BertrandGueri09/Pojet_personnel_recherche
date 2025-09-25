@@ -101,8 +101,6 @@ h1, h2, h3, h4, h5, h6, label, .st-cf, .st-ag {
 """, unsafe_allow_html=True)
 
 st.markdown('<div class="section-title">Dashboard – Enquête Jeunes Diplômés en recherche d\'emploi (Afrique du Sud)</div>', unsafe_allow_html=True)
-st.caption("Lorsque le CSV est modifié ou qu'une réponse est ajoutée, le dashboard se recharge.")
-
 # -------------------------------
 # Paramètres & chargement
 # -------------------------------
@@ -187,7 +185,7 @@ entre_rate = dff["Q9_Entreprenariat"].eq("Oui").mean() * 100 if nb_rep else 0
 li_rate = dff["Q10_LinkedIn"].eq("Oui").mean() * 100 if nb_rep else 0
 
 col1.markdown(f'<div class="kpi"><h3>Répondants</h3><div class="v">{nb_rep}</div></div>', unsafe_allow_html=True)
-col2.markdown(f'<div class="kpi"><h3>Rémunération moy. (ZAR)</h3><div class="v">{_fmt_float(avg_salary)}</div></div>', unsafe_allow_html=True)
+col2.markdown(f'<div class="kpi"><h3>Rémunération moyenne</h3><div class="v">{_fmt_float(avg_salary)}</div></div>', unsafe_allow_html=True)
 col3.markdown(f'<div class="kpi"><h3>Taux de stage (%)</h3><div class="v">{stage_rate:.1f}%</div></div>', unsafe_allow_html=True)
 col4.markdown(f'<div class="kpi"><h3>Mobilité (%)</h3><div class="v">{mob_rate:.1f}%</div></div>', unsafe_allow_html=True)
 col5.markdown(f'<div class="kpi"><h3>Entrepreneuriat (%)</h3><div class="v">{entre_rate:.1f}%</div></div>', unsafe_allow_html=True)
@@ -423,3 +421,6 @@ with st.expander("Ouvrir le formulaire d'ajout"):
             st.rerun()
         except Exception as e:
             st.error(f"Impossible d'écrire dans le CSV ({csv_path}). Erreur : {e}")
+            st.caption("Lorsque le CSV est modifié ou qu'une réponse est ajoutée, le dashboard se recharge.")
+
+
